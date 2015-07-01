@@ -1,10 +1,10 @@
 {
 DisplayStrings = (
-/gjA/gjKA/gjKHA/gjKA/gjGA/gjCHA/gjCHA.alt/gjJA/gjTA/gjTHA/gjDA/gjNA/gjPA/gjBHA/gjMA/gjRA/gjSHA/gjSH_RA,
 /gjCHA,
 /gjSH_RA/gjmII/gjKHA/gjN/gjDDA,
 /gjmAA/gjDDA/gjmAA,
-/gjmAA/gjNGA/gjmAA/gjDDA/gjmAA
+/gjmAA/gjNGA/gjmAA/gjDDA/gjmAA,
+/gjTTA/gjDDA/gjDDHA
 );
 customParameters = (
 {
@@ -1485,7 +1485,7 @@ unicode = 0A98;
 },
 {
 glyphname = gjNGA;
-lastChange = "2015-06-04 15:07:36 +0000";
+lastChange = "2015-06-04 15:10:47 +0000";
 layers = (
 {
 background = {
@@ -1592,7 +1592,7 @@ nodes = (
 );
 }
 );
-width = 671;
+width = 701;
 }
 );
 unicode = 0A99;

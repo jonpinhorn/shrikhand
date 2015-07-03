@@ -751,8 +751,6 @@
   <glyph name="gjSSA" category="Letter" unicode="0AB7" description="GUJARATI LETTER SSA" script="gujarati"/>
   <glyph name="gjSA" category="Letter" unicode="0AB8" description="GUJARATI LETTER SA" script="gujarati"/>
   <glyph name="gjHA" category="Letter" unicode="0AB9" description="GUJARATI LETTER HA" script="gujarati"/>
-  <glyph name="gjRRA" category="Letter" unicode="0C31" description="GUJARATI LETTER RRA" anchors="top, bottom" accents="gjmI, gjmE, gjAIlengthmark, gjVirama" script="gujarati"/>
-  <glyph name="gjLLA" category="Letter" unicode="0C33" description="GUJARATI LETTER LLA" script="gujarati"/>
   <glyph name="gjAnuswara" category="Letter" unicode="0A82" description="GUJARATI SIGN ANUSWARA" script="gujarati"/>
   <glyph name="gjCandrabindu" category="Letter" unicode="0A81" description="GUJARATI SIGN CANDRABINDU" script="gujarati"/>
   <glyph name="gjVisarga" category="Letter" unicode="0A83" description="GUJARATI SIGN VISARGA" script="gujarati"/>

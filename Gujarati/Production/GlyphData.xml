@@ -1,0 +1,771 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE glyphData [
+<!ELEMENT glyphData (glyph)+>
+<!ELEMENT glyph EMPTY>
+<!ATTLIST glyph
+  unicode       CDATA  #IMPLIED
+  unicode2      CDATA  #IMPLIED
+  name          CDATA  #REQUIRED
+  sortName      CDATA  #IMPLIED
+  sortNameKeep  CDATA  #IMPLIED
+  category      CDATA  #REQUIRED
+  subCategory   CDATA  #IMPLIED
+  script        CDATA  #IMPLIED
+  description   CDATA  #REQUIRED
+  legacy        CDATA  #IMPLIED
+  alternative   CDATA  #IMPLIED
+  decompose     CDATA  #IMPLIED
+  anchors       CDATA  #IMPLIED
+  accents       CDATA  #IMPLIED>
+]>
+<glyphData>
+  <glyph name="danda" category="Punctuation" unicode="0964" description="DEVANAGARI DANDA" script=""/>
+  <glyph name="doubledanda" category="Punctuation" unicode="0965" description="DEVANAGARI DOUBLE DANDA" script=""/>
+  <glyph name="indianrupee" category="Symbol" subCategory="Currency" unicode="20B9" description="INDIAN RUPEE SIGN" script=""/>
+  <glyph name="dottedcircle" accents="bnCandrabindu, bnVirama, bnNukta, bnmU.detached, bnmUU.detached, bnmvR.detached, bnmvRR, bnmvL, bnmvLL" category="Symbol" unicode="25CC" description="DOTTED CIRCLE" script=""/>
+  <glyph name="dvA" anchors="abvm" accents="dvAnusvara, dvCandrabindu" category="Letter" subCategory="Vowel" unicode="0905" description="DEVANAGARI LETTER A" script="devanagari"/>
+  <glyph name="dvAA" decompose="dvA, dvmAA" anchors="abvm" accents="dvAnusvara, dvCandrabindu" category="Letter" subCategory="Vowel" unicode="0906" description="DEVANAGARI LETTER AA" script="devanagari"/>
+  <glyph name="dvI" anchors="abvm" accents="dvAnusvara, dvCandrabindu" category="Letter" subCategory="Vowel" unicode="0907" description="DEVANAGARI LETTER I" script="devanagari"/>
+  <glyph name="dvII" anchors="abvm" accents="dvAnusvara, dvCandrabindu" category="Letter" subCategory="Vowel" unicode="0908" description="DEVANAGARI LETTER II" script="devanagari"/>
+  <glyph name="dvU" anchors="abvm" accents="dvAnusvara, dvCandrabindu" category="Letter" subCategory="Vowel" unicode="0909" description="DEVANAGARI LETTER U" script="devanagari"/>
+  <glyph name="dvUU" anchors="abvm" accents="dvAnusvara, dvCandrabindu" category="Letter" subCategory="Vowel" unicode="090A" description="DEVANAGARI LETTER UU" script="devanagari"/>
+  <glyph name="dvvR" anchors="abvm" accents="dvReph, dvAnusvara, dvCandrabindu" category="Letter" subCategory="Vowel" unicode="090B" description="DEVANAGARI LETTER VOCALIC R" script="devanagari"/>
+  <glyph name="dvvRR" anchors="abvm" accents="dvReph, dvAnusvara, dvCandrabindu" category="Letter" subCategory="Vowel" unicode="0960" description="DEVANAGARI LETTER VOCALIC RR" script="devanagari"/>
+  <glyph name="dvvL" anchors="abvm" accents="dvReph, dvAnusvara, dvCandrabindu" category="Letter" subCategory="Vowel" unicode="090C" description="DEVANAGARI LETTER VOCALIC L" script="devanagari"/>
+  <glyph name="dvvLL" anchors="abvm" accents="dvReph, dvAnusvara, dvCandrabindu" category="Letter" subCategory="Vowel" unicode="0961" description="DEVANAGARI LETTER VOCALIC LL" script="devanagari"/>
+  <glyph name="dvE" anchors="abvm" accents="dvAnusvara, dvCandrabindu" category="Letter" subCategory="Vowel" unicode="090F" description="DEVANAGARI LETTER E" script="devanagari"/>
+  <glyph name="dvAI" decompose="dvE, dvmE" anchors="abvm" accents="dvAnusvara, dvCandrabindu" category="Letter" subCategory="Vowel" unicode="0910" description="DEVANAGARI LETTER AI" script="devanagari"/>
+  <glyph name="dvO" decompose="dvA, dvmO" anchors="abvm" accents="dvAnusvara, dvCandrabindu" category="Letter" subCategory="Vowel" unicode="0913" description="DEVANAGARI LETTER O" script="devanagari"/>
+  <glyph name="dvAU" decompose="dvA, dvmAU" anchors="abvm" accents="dvAnusvara, dvCandrabindu" category="Letter" subCategory="Vowel" unicode="0914" description="DEVANAGARI LETTER AU" script="devanagari"/>
+  <glyph name="dvEcandra" decompose="dvE, dvmEcandra" anchors="abvm" accents="dvAnusvara, dvCandrabindu" category="Letter" subCategory="Vowel" unicode="090D" description="DEVANAGARI VOWEL CANDRA E" script="devanagari"/>
+  <glyph name="dvAcandra" decompose="dvA, dvmEcandra" anchors="abvm" accents="dvAnusvara, dvCandrabindu" category="Letter" subCategory="Vowel" unicode="0972" description="DEVANAGARI VOWEL CANDRA A" script="devanagari"/>
+  <glyph name="dvOcandra" decompose="dvA, dvmOcandra" anchors="abvm" accents="dvAnusvara, dvCandrabindu" category="Letter" subCategory="Vowel" unicode="0911" description="DEVANAGARI VOWEL CANDRA O" script="devanagari"/>
+  <glyph name="dvmAA" category="Letter" subCategory="Modifier" unicode="093E" description="DEVANAGARI VOWEL SIGN AA" script="devanagari"/>
+  <glyph name="dvmI" anchors="abvm.matrai" accents="dvAnusvara.matrai, dvReph.matrai, dvReph_Anusvara.matrai" category="Letter" subCategory="Modifier" unicode="093F" description="DEVANAGARI VOWEL SIGN I" script="devanagari"/>
+  <glyph name="dvmII" anchors="abvm" accents="dvReph, dvAnusvara, dvCandrabindu" category="Letter" subCategory="Modifier" unicode="0940" description="DEVANAGARI VOWEL SIGN II" script="devanagari"/>
+  <glyph name="dvmU" anchors="_blwm" category="Letter" subCategory="Modifier" unicode="0941" description="DEVANAGARI VOWEL SIGN U" script="devanagari"/>
+  <glyph name="dvmUU" anchors="_blwm" category="Letter" subCategory="Modifier" unicode="0942" description="DEVANAGARI VOWEL SIGN UU" script="devanagari"/>
+  <glyph name="dvmvR" anchors="_blwm" category="Letter" subCategory="Modifier" unicode="0943" description="DEVANAGARI VOWEL SIGN VOCALIC R" script="devanagari"/>
+  <glyph name="dvmvRR" anchors="_blwm" category="Letter" subCategory="Modifier" unicode="0944" description="DEVANAGARI VOWEL SIGN VOCALIC RR" script="devanagari"/>
+  <glyph name="dvmvL" anchors="_blwm" category="Letter" subCategory="Modifier" unicode="0962" description="DEVANAGARI VOWEL SIGN VOCALIC L" script="devanagari"/>
+  <glyph name="dvmvLL" anchors="_blwm" category="Letter" subCategory="Modifier" unicode="0963" description="DEVANAGARI VOWEL SIGN VOCALIC LL" script="devanagari"/>
+  <glyph name="dvmE" anchors="_abvm" accents="dvReph, dvAnusvara, dvCandrabindu" category="Letter" subCategory="Modifier" unicode="0947" description="DEVANAGARI VOWEL SIGN E" script="devanagari"/>
+  <glyph name="dvmAI" anchors="_abvm" accents="dvReph, dvAnusvara, dvCandrabindu" category="Letter" subCategory="Modifier" unicode="0948" description="DEVANAGARI VOWEL SIGN AI" script="devanagari"/>
+  <glyph name="dvmO" decompose="dvmAA, dvmE" accents="dvReph, dvAnusvara, dvCandrabindu" category="Letter" subCategory="Modifier" unicode="094B" description="DEVANAGARI VOWEL SIGN O" script="devanagari"/>
+  <glyph name="dvmAU" decompose="dvmAA, dvmAI" accents="dvReph, dvAnusvara, dvCandrabindu" category="Letter" subCategory="Modifier" unicode="094C" description="DEVANAGARI VOWEL SIGN AU" script="devanagari"/>
+  <glyph name="dvmEcandra" anchors="_abvm" accents="dvReph, dvAnusvara, dvCandrabindu" category="Letter" subCategory="Modifier" unicode="0945" description="DEVANAGARI VOWEL SIGN CANDRA E" script="devanagari"/>
+  <glyph name="dvmOcandra" decompose="dvmAA, dvmEcandra" accents="dvReph, dvAnusvara, dvCandrabindu" category="Letter" subCategory="Modifier" unicode="0949" description="DEVANAGARI VOWEL SIGN CANDRA O" script="devanagari"/>
+  <glyph name="dvKA" anchors="abvm, blwm" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Consonant" unicode="0915" description="DEVANAGARI LETTER KA" script="devanagari"/>
+  <glyph name="dvKHA" category="Letter" subCategory="Consonant" unicode="0916" description="DEVANAGARI LETTER KHA" script="devanagari"/>
+  <glyph name="dvGA" category="Letter" subCategory="Consonant" unicode="0917" description="DEVANAGARI LETTER GA" script="devanagari"/>
+  <glyph name="dvGHA" category="Letter" subCategory="Consonant" unicode="0918" description="DEVANAGARI LETTER GHA" script="devanagari"/>
+  <glyph name="dvNGA" decompose="dvDDA" anchors="abvm, blwm" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Consonant" unicode="0919" description="DEVANAGARI LETTER NGA" script="devanagari"/>
+  <glyph name="dvCA" category="Letter" subCategory="Consonant" unicode="091A" description="DEVANAGARI LETTER CA" script="devanagari"/>
+  <glyph name="dvCHA" anchors="abvm, blwm" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Consonant" unicode="091B" description="DEVANAGARI LETTER CHA" script="devanagari"/>
+  <glyph name="dvJA" category="Letter" subCategory="Consonant" unicode="091C" description="DEVANAGARI LETTER JA" script="devanagari"/>
+  <glyph name="dvJHA" category="Letter" subCategory="Consonant" unicode="091D" description="DEVANAGARI LETTER JHA" script="devanagari"/>
+  <glyph name="dvNYA" category="Letter" subCategory="Consonant" unicode="091E" description="DEVANAGARI LETTER NYA" script="devanagari"/>
+  <glyph name="dvTTA" anchors="abvm, blwm" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Consonant" unicode="091F" description="DEVANAGARI LETTER TTA" script="devanagari"/>
+  <glyph name="dvTTHA" anchors="abvm, blwm" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Consonant" unicode="0920" description="DEVANAGARI LETTER TTHA" script="devanagari"/>
+  <glyph name="dvDDA" anchors="abvm, blwm" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Consonant" unicode="0921" description="DEVANAGARI LETTER DDA" script="devanagari"/>
+  <glyph name="dvDDHA" anchors="abvm, blwm" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Consonant" unicode="0922" description="DEVANAGARI LETTER DDHA" script="devanagari"/>
+  <glyph name="dvNNA" category="Letter" subCategory="Consonant" unicode="0923" description="DEVANAGARI LETTER NNA" script="devanagari"/>
+  <glyph name="dvTA" category="Letter" subCategory="Consonant" unicode="0924" description="DEVANAGARI LETTER TA" script="devanagari"/>
+  <glyph name="dvTHA" category="Letter" subCategory="Consonant" unicode="0925" description="DEVANAGARI LETTER THA" script="devanagari"/>
+  <glyph name="dvDA" anchors="abvm, blwm" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Consonant" unicode="0926" description="DEVANAGARI LETTER DA" script="devanagari"/>
+  <glyph name="dvDHA" category="Letter" subCategory="Consonant" unicode="0927" description="DEVANAGARI LETTER DHA" script="devanagari"/>
+  <glyph name="dvNA" category="Letter" subCategory="Consonant" unicode="0928" description="DEVANAGARI LETTER NA" script="devanagari"/>
+  <glyph name="dvPA" category="Letter" subCategory="Consonant" unicode="092A" description="DEVANAGARI LETTER PA" script="devanagari"/>
+  <glyph name="dvPHA" anchors="abvm, blwm" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Consonant" unicode="092B" description="DEVANAGARI LETTER PHA" script="devanagari"/>
+  <glyph name="dvBA" category="Letter" subCategory="Consonant" unicode="092C" description="DEVANAGARI LETTER BA" script="devanagari"/>
+  <glyph name="dvBHA" category="Letter" subCategory="Consonant" unicode="092D" description="DEVANAGARI LETTER BHA" script="devanagari"/>
+  <glyph name="dvMA" category="Letter" subCategory="Consonant" unicode="092E" description="DEVANAGARI LETTER MA" script="devanagari"/>
+  <glyph name="dvYA" category="Letter" subCategory="Consonant" unicode="092F" description="DEVANAGARI LETTER YA" script="devanagari"/>
+  <glyph name="dvRA" anchors="abvm, blwm" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Consonant" unicode="0930" description="DEVANAGARI LETTER RA" script="devanagari"/>
+  <glyph name="dvLA" category="Letter" subCategory="Consonant" unicode="0932" description="DEVANAGARI LETTER LA" script="devanagari"/>
+  <glyph name="dvVA" category="Letter" subCategory="Consonant" unicode="0935" description="DEVANAGARI LETTER VA" script="devanagari"/>
+  <glyph name="dvSHA" category="Letter" subCategory="Consonant" unicode="0936" description="DEVANAGARI LETTER SHA" script="devanagari"/>
+  <glyph name="dvSSA" category="Letter" subCategory="Consonant" unicode="0937" description="DEVANAGARI LETTER SSA" script="devanagari"/>
+  <glyph name="dvSA" category="Letter" subCategory="Consonant" unicode="0938" description="DEVANAGARI LETTER SA" script="devanagari"/>
+  <glyph name="dvHA" anchors="abvm, blwm" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Consonant" unicode="0939" description="DEVANAGARI LETTER HA" script="devanagari"/>
+  <glyph name="dvLLA" anchors="abvm, blwm" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Consonant" unicode="0933" description="DEVANAGARI LETTER LLA" script="devanagari"/>
+  <glyph name="dvK_SSA" category="Letter" subCategory="Consonant" unicode="" description="" script="devanagari"/>
+  <glyph name="dvJ_NYA" category="Letter" subCategory="Consonant" unicode="" description="" script="devanagari"/>
+  <glyph name="dvKxA" decompose="dvKA, dvNukta" anchors="abvm, blwm" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Consonant" unicode="" description="" script="devanagari"/>
+  <glyph name="dvKHxA" decompose="dvKHA, dvNukta" category="Letter" subCategory="Consonant" unicode="" description="" script="devanagari"/>
+  <glyph name="dvGxA" decompose="dvGA, dvNukta" category="Letter" subCategory="Consonant" unicode="" description="" script="devanagari"/>
+  <glyph name="dvJxA" decompose="dvJA, dvNukta" category="Letter" subCategory="Consonant" unicode="" description="" script="devanagari"/>
+  <glyph name="dvDDxA" decompose="dvDDA, dvNukta" anchors="abvm, blwm" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Consonant" unicode="" description="" script="devanagari"/>
+  <glyph name="dvDDHxA" decompose="dvDDHA, dvNukta" anchors="abvm, blwm" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Consonant" unicode="" description="" script="devanagari"/>
+  <glyph name="dvPHxA" decompose="dvPHA, dvNukta" anchors="abvm, blwm" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Consonant" unicode="" description="" script="devanagari"/>
+  <glyph name="dvRxA" decompose="dvRA, dvNukta" anchors="abvm, blwm" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Consonant" unicode="" description="" script="devanagari"/>
+  <glyph name="dvAnusvara" anchors="_abvm" category="Letter" subCategory="Modifier" unicode="0902" description="DEVANAGARI SIGN ANUSVARA" script="devanagari"/>
+  <glyph name="dvCandrabindu" anchors="_abvm" category="Letter" subCategory="Modifier" unicode="0901" description="DEVANAGARI SIGN CANDRABINDU" script="devanagari"/>
+  <glyph name="dvVisarga" category="Letter" subCategory="Modifier" unicode="0903" description="DEVANAGARI SIGN VISARGA" script="devanagari"/>
+  <glyph name="dvAvagraha" category="Letter" unicode="093D" description="DEVANAGARI SIGN AVAGRAHA" script="devanagari"/>
+  <glyph name="dvVirama" anchors="_blwm" category="Letter" subCategory="Modifier" unicode="094D" description="DEVANAGARI SIGN VIRAMA" script="devanagari"/>
+  <glyph name="dvNukta" anchors="_blwm" category="Letter" subCategory="Modifier" unicode="093C" description="DEVANAGARI SIGN NUKTA" script="devanagari"/>
+  <glyph name="dvZero" category="Number" subCategory="Decimal Digit" unicode="0966" description="DEVANAGARI DIGIT ZERO" script="devanagari"/>
+  <glyph name="dvOne" category="Number" subCategory="Decimal Digit" unicode="0967" description="DEVANAGARI DIGIT ONE" script="devanagari"/>
+  <glyph name="dvTwo" category="Number" subCategory="Decimal Digit" unicode="0968" description="DEVANAGARI DIGIT TWO" script="devanagari"/>
+  <glyph name="dvThree" category="Number" subCategory="Decimal Digit" unicode="0969" description="DEVANAGARI DIGIT THREE" script="devanagari"/>
+  <glyph name="dvFour" category="Number" subCategory="Decimal Digit" unicode="096A" description="DEVANAGARI DIGIT FOUR" script="devanagari"/>
+  <glyph name="dvFive" category="Number" subCategory="Decimal Digit" unicode="096B" description="DEVANAGARI DIGIT FIVE" script="devanagari"/>
+  <glyph name="dvSix" category="Number" subCategory="Decimal Digit" unicode="096C" description="DEVANAGARI DIGIT SIX" script="devanagari"/>
+  <glyph name="dvSeven" category="Number" subCategory="Decimal Digit" unicode="096D" description="DEVANAGARI DIGIT SEVEN" script="devanagari"/>
+  <glyph name="dvEight" category="Number" subCategory="Decimal Digit" unicode="096E" description="DEVANAGARI DIGIT EIGHT" script="devanagari"/>
+  <glyph name="dvNine" category="Number" subCategory="Decimal Digit" unicode="096F" description="DEVANAGARI DIGIT NINE" script="devanagari"/>
+  <glyph name="dvOm" decompose="dvU, dvCandrabindu" category="Symbol" unicode="0950" description="DEVANAGARI OM" script="devanagari"/>
+  <glyph name="dvAbbreviationsign" category="Punctuation" unicode="0970" description="DEVANAGARI ABBREVIATION SIGN" script="devanagari"/>
+  <glyph name="dvReph" anchors="_abvm" category="Letter" subCategory="Modifier" unicode="" description="" script="devanagari"/>
+  <glyph name="dvEyelash" category="Letter" unicode="" description="" script="devanagari"/>
+  <glyph name="dvRakar" anchors="_blwm" category="Letter" subCategory="Modifier" unicode="" description="" script="devanagari"/>
+  <glyph name="dvK" decompose="dvKA" category="Letter" subCategory="Half Form" unicode="" description="" script="devanagari"/>
+  <glyph name="dvKH" decompose="dvKHA" category="Letter" subCategory="Half Form" unicode="" description="" script="devanagari"/>
+  <glyph name="dvG" decompose="dvGA" category="Letter" subCategory="Half Form" unicode="" description="" script="devanagari"/>
+  <glyph name="dvGH" decompose="dvGHA" category="Letter" subCategory="Half Form" unicode="" description="" script="devanagari"/>
+  <glyph name="dvNG" decompose="dvNGA, dvVirama" anchors="abvm" accents="dvReph" category="Letter" subCategory="Half Form" unicode="" description="" script="devanagari"/>
+  <glyph name="dvC" decompose="dvCA" category="Letter" subCategory="Half Form" unicode="" description="" script="devanagari"/>
+  <glyph name="dvCH" anchors="abvm" accents="dvReph" category="Letter" subCategory="Half Form" unicode="" description="" script="devanagari"/>
+  <glyph name="dvJ" decompose="dvJA" category="Letter" subCategory="Half Form" unicode="" description="" script="devanagari"/>
+  <glyph name="dvJH" decompose="dvJHA" category="Letter" subCategory="Half Form" unicode="" description="" script="devanagari"/>
+  <glyph name="dvNY" decompose="dvNYA" category="Letter" subCategory="Half Form" unicode="" description="" script="devanagari"/>
+  <glyph name="dvTT" decompose="dvTTA, dvVirama" anchors="abvm" accents="dvReph" category="Letter" subCategory="Half Form" unicode="" description="" script="devanagari"/>
+  <glyph name="dvTTH" decompose="dvTTHA, dvVirama" anchors="abvm" accents="dvReph" category="Letter" subCategory="Half Form" unicode="" description="" script="devanagari"/>
+  <glyph name="dvDD" decompose="dvDDA, dvVirama" anchors="abvm" accents="dvReph" category="Letter" subCategory="Half Form" unicode="" description="" script="devanagari"/>
+  <glyph name="dvDDH" decompose="dvDDHA, dvVirama" anchors="abvm" accents="dvReph" category="Letter" subCategory="Half Form" unicode="" description="" script="devanagari"/>
+  <glyph name="dvNN" decompose="dvNNA" category="Letter" subCategory="Half Form" unicode="" description="" script="devanagari"/>
+  <glyph name="dvT" decompose="dvTA" category="Letter" subCategory="Half Form" unicode="" description="" script="devanagari"/>
+  <glyph name="dvTH" decompose="dvTHA" category="Letter" subCategory="Half Form" unicode="" description="" script="devanagari"/>
+  <glyph name="dvD" decompose="dvDA, dvVirama" anchors="abvm" accents="dvReph" category="Letter" subCategory="Half Form" unicode="" description="" script="devanagari"/>
+  <glyph name="dvDH" decompose="dvDHA" category="Letter" subCategory="Half Form" unicode="" description="" script="devanagari"/>
+  <glyph name="dvN" decompose="dvNA" category="Letter" subCategory="Half Form" unicode="" description="" script="devanagari"/>
+  <glyph name="dvP" decompose="dvPA" category="Letter" subCategory="Half Form" unicode="" description="" script="devanagari"/>
+  <glyph name="dvPH" decompose="dvPHA" category="Letter" subCategory="Half Form" unicode="" description="" script="devanagari"/>
+  <glyph name="dvB" decompose="dvBA" category="Letter" subCategory="Half Form" unicode="" description="" script="devanagari"/>
+  <glyph name="dvBH" decompose="dvBHA" category="Letter" subCategory="Half Form" unicode="" description="" script="devanagari"/>
+  <glyph name="dvM" decompose="dvMA" category="Letter" subCategory="Half Form" unicode="" description="" script="devanagari"/>
+  <glyph name="dvY" decompose="dvYA" category="Letter" subCategory="Half Form" unicode="" description="" script="devanagari"/>
+  <glyph name="dvR" decompose="dvRA, dvVirama" anchors="abvm" accents="dvReph" category="Letter" subCategory="Half Form" unicode="" description="" script="devanagari"/>
+  <glyph name="dvL" decompose="dvLA" category="Letter" subCategory="Half Form" unicode="" description="" script="devanagari"/>
+  <glyph name="dvV" decompose="dvVA" category="Letter" subCategory="Half Form" unicode="" description="" script="devanagari"/>
+  <glyph name="dvSH" decompose="dvSHA" category="Letter" subCategory="Half Form" unicode="" description="" script="devanagari"/>
+  <glyph name="dvSS" decompose="dvSSA" category="Letter" subCategory="Half Form" unicode="" description="" script="devanagari"/>
+  <glyph name="dvS" decompose="dvSA" category="Letter" subCategory="Half Form" unicode="" description="" script="devanagari"/>
+  <glyph name="dvH" decompose="dvHA, dvVirama" anchors="abvm" accents="dvReph" category="Letter" subCategory="Half Form" unicode="" description="" script="devanagari"/>
+  <glyph name="dvLL" decompose="dvLLA" category="Letter" subCategory="Half Form" unicode="" description="" script="devanagari"/>
+  <glyph name="dvK_SS" decompose="dvK_SSA" category="Letter" subCategory="Half Form" unicode="" description="" script="devanagari"/>
+  <glyph name="dvJ_NY" decompose="dvJ_NYA" category="Letter" subCategory="Half Form" unicode="" description="" script="devanagari"/>
+  <glyph name="dvKx" decompose="dvKxA" category="Letter" subCategory="Consonant" unicode="" description="" script="devanagari"/>
+  <glyph name="dvKHx" decompose="dvKHxA" category="Letter" subCategory="Consonant" unicode="" description="" script="devanagari"/>
+  <glyph name="dvGx" decompose="dvGxA" category="Letter" subCategory="Consonant" unicode="" description="" script="devanagari"/>
+  <glyph name="dvJx" decompose="dvJxA" category="Letter" subCategory="Consonant" unicode="" description="" script="devanagari"/>
+  <glyph name="dvPHx" decompose="dvPHxA" category="Letter" subCategory="Consonant" unicode="" description="" script="devanagari"/>
+  <glyph name="dvK_RA" decompose="dvKA" anchors="abvm, blwm" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Consonant" unicode="" description="" script="devanagari"/>
+  <glyph name="dvKH_RA" decompose="dvKHA" category="Letter" subCategory="Consonant" unicode="" description="" script="devanagari"/>
+  <glyph name="dvG_RA" decompose="dvGA" category="Letter" subCategory="Consonant" unicode="" description="" script="devanagari"/>
+  <glyph name="dvGH_RA" decompose="dvGHA" category="Letter" subCategory="Consonant" unicode="" description="" script="devanagari"/>
+  <glyph name="dvNG_RA" decompose="dvNGA, dvRakar" anchors="abvm, blwm" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Consonant" unicode="" description="" script="devanagari"/>
+  <glyph name="dvC_RA" decompose="dvCA" category="Letter" subCategory="Consonant" unicode="" description="" script="devanagari"/>
+  <glyph name="dvCH_RA" decompose="dvCHA, dvRakar" anchors="abvm, blwm" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Consonant" unicode="" description="" script="devanagari"/>
+  <glyph name="dvJ_RA" decompose="dvJA" category="Letter" subCategory="Consonant" unicode="" description="" script="devanagari"/>
+  <glyph name="dvJH_RA" decompose="dvJHA" category="Letter" subCategory="Consonant" unicode="" description="" script="devanagari"/>
+  <glyph name="dvNY_RA" decompose="dvNYA" category="Letter" subCategory="Consonant" unicode="" description="" script="devanagari"/>
+  <glyph name="dvTT_RA" decompose="dvTTA, dvRakar" anchors="abvm, blwm" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Consonant" unicode="" description="" script="devanagari"/>
+  <glyph name="dvTTH_RA" decompose="dvTTHA, dvRakar" anchors="abvm, blwm" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Consonant" unicode="" description="" script="devanagari"/>
+  <glyph name="dvDD_RA" decompose="dvDDA, dvRakar" anchors="abvm, blwm" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Consonant" unicode="" description="" script="devanagari"/>
+  <glyph name="dvDDH_RA" decompose="dvDDHA, dvRakar" anchors="abvm, blwm" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Consonant" unicode="" description="" script="devanagari"/>
+  <glyph name="dvNN_RA" decompose="dvNNA" category="Letter" subCategory="Consonant" unicode="" description="" script="devanagari"/>
+  <glyph name="dvT_RA" decompose="dvTA" category="Letter" subCategory="Consonant" unicode="" description="" script="devanagari"/>
+  <glyph name="dvTH_RA" decompose="dvTHA" category="Letter" subCategory="Consonant" unicode="" description="" script="devanagari"/>
+  <glyph name="dvD_RA" decompose="dvDA" anchors="abvm, blwm" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Consonant" unicode="" description="" script="devanagari"/>
+  <glyph name="dvDH_RA" decompose="dvDHA" category="Letter" subCategory="Consonant" unicode="" description="" script="devanagari"/>
+  <glyph name="dvN_RA" decompose="dvNA" category="Letter" subCategory="Consonant" unicode="" description="" script="devanagari"/>
+  <glyph name="dvP_RA" decompose="dvPA" category="Letter" subCategory="Consonant" unicode="" description="" script="devanagari"/>
+  <glyph name="dvPH_RA" decompose="dvPHA" anchors="abvm, blwm" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Consonant" unicode="" description="" script="devanagari"/>
+  <glyph name="dvB_RA" decompose="dvBA" category="Letter" subCategory="Consonant" unicode="" description="" script="devanagari"/>
+  <glyph name="dvBH_RA" decompose="dvBHA" category="Letter" subCategory="Consonant" unicode="" description="" script="devanagari"/>
+  <glyph name="dvM_RA" decompose="dvMA" category="Letter" subCategory="Consonant" unicode="" description="" script="devanagari"/>
+  <glyph name="dvY_RA" decompose="dvYA" category="Letter" subCategory="Consonant" unicode="" description="" script="devanagari"/>
+  <glyph name="dvL_RA" decompose="dvLA" category="Letter" subCategory="Consonant" unicode="" description="" script="devanagari"/>
+  <glyph name="dvV_RA" decompose="dvVA" category="Letter" subCategory="Consonant" unicode="" description="" script="devanagari"/>
+  <glyph name="dvSH_RA" decompose="dvSHA" category="Letter" subCategory="Consonant" unicode="" description="" script="devanagari"/>
+  <glyph name="dvSS_RA" decompose="dvSSA" category="Letter" subCategory="Consonant" unicode="" description="" script="devanagari"/>
+  <glyph name="dvS_RA" decompose="dvSA" category="Letter" subCategory="Consonant" unicode="" description="" script="devanagari"/>
+  <glyph name="dvH_RA" decompose="dvHA" anchors="abvm, blwm" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Consonant" unicode="" description="" script="devanagari"/>
+  <glyph name="dvLL_RA" decompose="dvLLA, dvRakar" anchors="abvm, blwm" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Consonant" unicode="" description="" script="devanagari"/>
+  <glyph name="dvK_SS_RA" decompose="dvK_SSA" category="Letter" subCategory="Consonant" unicode="" description="" script="devanagari"/>
+  <glyph name="dvJ_NY_RA" decompose="dvJ_NYA" category="Letter" subCategory="Consonant" unicode="" description="" script="devanagari"/>
+  <glyph name="dvKx_RA" decompose="dvKxA" anchors="abvm, blwm" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Consonant" unicode="" description="" script="devanagari"/>
+  <glyph name="dvKHx_RA" decompose="dvKHxA" category="Letter" subCategory="Consonant" unicode="" description="" script="devanagari"/>
+  <glyph name="dvGx_RA" decompose="dvGxA" category="Letter" subCategory="Consonant" unicode="" description="" script="devanagari"/>
+  <glyph name="dvJx_RA" decompose="dvJxA" category="Letter" subCategory="Consonant" unicode="" description="" script="devanagari"/>
+  <glyph name="dvPHx_RA" decompose="dvPHxA" anchors="abvm, blwm" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Consonant" unicode="" description="" script="devanagari"/>
+  <glyph name="dvK_R" decompose="dvK_RA" category="Letter" subCategory="Half Form" unicode="" description="" script="devanagari"/>
+  <glyph name="dvKH_R" decompose="dvKH_RA" category="Letter" subCategory="Half Form" unicode="" description="" script="devanagari"/>
+  <glyph name="dvG_R" decompose="dvG_RA" category="Letter" subCategory="Half Form" unicode="" description="" script="devanagari"/>
+  <glyph name="dvGH_R" decompose="dvGH_RA" category="Letter" subCategory="Half Form" unicode="" description="" script="devanagari"/>
+  <glyph name="dvNG_R" decompose="dvNG_RA, dvVirama" anchors="abvm" accents="dvReph" category="Letter" subCategory="Half Form" unicode="" description="" script="devanagari"/>
+  <glyph name="dvC_R" decompose="dvC_RA" category="Letter" subCategory="Half Form" unicode="" description="" script="devanagari"/>
+  <glyph name="dvCH_R" anchors="dvCH_RA" accents="dvReph" category="Letter" subCategory="Half Form" unicode="" description="" script="devanagari"/>
+  <glyph name="dvJ_R" decompose="dvJ_RA" category="Letter" subCategory="Half Form" unicode="" description="" script="devanagari"/>
+  <glyph name="dvJH_R" decompose="dvJH_RA" category="Letter" subCategory="Half Form" unicode="" description="" script="devanagari"/>
+  <glyph name="dvNY_R" decompose="dvNY_RA" category="Letter" subCategory="Half Form" unicode="" description="" script="devanagari"/>
+  <glyph name="dvTT_R" decompose="dvTT_RA, dvVirama" anchors="abvm" accents="dvReph" category="Letter" subCategory="Half Form" unicode="" description="" script="devanagari"/>
+  <glyph name="dvTTH_R" decompose="dvTTH_RA, dvVirama" anchors="abvm" accents="dvReph" category="Letter" subCategory="Half Form" unicode="" description="" script="devanagari"/>
+  <glyph name="dvDD_R" decompose="dvDD_RA, dvVirama" anchors="abvm" accents="dvReph" category="Letter" subCategory="Half Form" unicode="" description="" script="devanagari"/>
+  <glyph name="dvDDH_R" decompose="dvDDH_RA, dvVirama" anchors="abvm" accents="dvReph" category="Letter" subCategory="Half Form" unicode="" description="" script="devanagari"/>
+  <glyph name="dvNN_R" decompose="dvNN_RA" category="Letter" subCategory="Half Form" unicode="" description="" script="devanagari"/>
+  <glyph name="dvT_R" decompose="dvT_RA" category="Letter" subCategory="Half Form" unicode="" description="" script="devanagari"/>
+  <glyph name="dvTH_R" decompose="dvTH_RA" category="Letter" subCategory="Half Form" unicode="" description="" script="devanagari"/>
+  <glyph name="dvD_R" decompose="dvD_RA, dvVirama" anchors="abvm" accents="dvReph" category="Letter" subCategory="Half Form" unicode="" description="" script="devanagari"/>
+  <glyph name="dvDH_R" decompose="dvDH_RA" category="Letter" subCategory="Half Form" unicode="" description="" script="devanagari"/>
+  <glyph name="dvN_R" decompose="dvN_RA" category="Letter" subCategory="Half Form" unicode="" description="" script="devanagari"/>
+  <glyph name="dvP_R" decompose="dvP_RA" category="Letter" subCategory="Half Form" unicode="" description="" script="devanagari"/>
+  <glyph name="dvPH_R" decompose="dvPH_RA" category="Letter" subCategory="Half Form" unicode="" description="" script="devanagari"/>
+  <glyph name="dvB_R" decompose="dvB_RA" category="Letter" subCategory="Half Form" unicode="" description="" script="devanagari"/>
+  <glyph name="dvBH_R" decompose="dvBH_RA" category="Letter" subCategory="Half Form" unicode="" description="" script="devanagari"/>
+  <glyph name="dvM_R" decompose="dvM_RA" category="Letter" subCategory="Half Form" unicode="" description="" script="devanagari"/>
+  <glyph name="dvY_R" decompose="dvY_RA" category="Letter" subCategory="Half Form" unicode="" description="" script="devanagari"/>
+  <glyph name="dvL_R" decompose="dvL_RA" category="Letter" subCategory="Half Form" unicode="" description="" script="devanagari"/>
+  <glyph name="dvV_R" decompose="dvV_RA" category="Letter" subCategory="Half Form" unicode="" description="" script="devanagari"/>
+  <glyph name="dvSH_R" decompose="dvSH_RA" category="Letter" subCategory="Half Form" unicode="" description="" script="devanagari"/>
+  <glyph name="dvSS_R" decompose="dvSS_RA" category="Letter" subCategory="Half Form" unicode="" description="" script="devanagari"/>
+  <glyph name="dvS_R" decompose="dvS_RA" category="Letter" subCategory="Half Form" unicode="" description="" script="devanagari"/>
+  <glyph name="dvH_R" decompose="dvH_RA, dvVirama" anchors="abvm" accents="dvReph" category="Letter" subCategory="Half Form" unicode="" description="" script="devanagari"/>
+  <glyph name="dvLL_R" decompose="dvLL_RA" category="Letter" subCategory="Half Form" unicode="" description="" script="devanagari"/>
+  <glyph name="dvK_SS_R" decompose="dvK_SS_RA" category="Letter" subCategory="Half Form" unicode="" description="" script="devanagari"/>
+  <glyph name="dvJ_NY_R" decompose="dvJ_NY_RA" category="Letter" subCategory="Half Form" unicode="" description="" script="devanagari"/>
+  <glyph name="dvKx_R" decompose="dvKx_RA" category="Letter" subCategory="Consonant" unicode="" description="" script="devanagari"/>
+  <glyph name="dvKHx_R" decompose="dvKHx_RA" category="Letter" subCategory="Consonant" unicode="" description="" script="devanagari"/>
+  <glyph name="dvGx_R" decompose="dvGx_RA" category="Letter" subCategory="Consonant" unicode="" description="" script="devanagari"/>
+  <glyph name="dvJx_R" decompose="dvJx_RA" category="Letter" subCategory="Consonant" unicode="" description="" script="devanagari"/>
+  <glyph name="dvPHx_R" decompose="dvPHx_RA" category="Letter" subCategory="Consonant" unicode="" description="" script="devanagari"/>
+  <glyph name="dvK_KA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvKx_KxA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvK_KHA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvK_CA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvK_JA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvK_TTA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvK_NNA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvK_TA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvKx_TA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvK_T_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvK_T_RA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvK_T_VA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvK_THA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvK_DA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvK_NA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvK_PA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvK_P_RA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvK_PHA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvKx_PHA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvKx_PHxA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvKx_BA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvK_MA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvKx_MA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvK_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvK_LA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvK_VA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvK_V_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvK_SHA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvK_SS_MA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvK_SS_M_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvK_SS_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvK_SS_VA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvK_SA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvK_S_TTA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvK_S_DDA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvK_S_TA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvK_S_P_RA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvK_S_P_LA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvKH_KHA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvKH_TA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvKHx_TA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvKH_NA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvKH_MA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvKHx_MA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvKH_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvKHx_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvKH_VA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvKHx_VA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvKH_SHA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvKHx_SHA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvKHx_SA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvG_GA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvG_GHA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvG_JA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvG_NNA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvG_DA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvG_DHA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvG_DH_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvG_DH_VA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvG_NA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvG_N_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvG_BA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvG_BHA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvG_BH_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvG_MA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvG_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvG_R_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvG_LA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvG_VA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvG_SA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvGH_NA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvGH_MA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvGH_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvC_CA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvC_CHA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvC_CH_VA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvC_NA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvC_MA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvC_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvCH_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvCH_R_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvCH_VA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvJ_KA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvJ_JA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvJx_JxA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvJ_J_NYA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvJ_J_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvJ_J_VA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvJ_JHA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvJ_NY_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvJ_TTA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvJ_DDA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvJ_TA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvJ_DA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvJ_NA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvJ_BA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvJ_MA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvJ_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvJx_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvJ_VA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvJH_NA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvJH_MA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvJH_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvNY_CA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvNY_CHA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvNY_JA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvNY_SHA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvTT_TTA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvTT_TTHA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvTT_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvTT_VA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvTTH_TTHA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvTTH_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvTTH_VA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvDD_DDA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvDD_DDHA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvDD_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvDD_VA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvDDH_DDHA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvDDH_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvDDH_VA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvNN_TTA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvNN_TTHA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvNN_DDA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvNN_DDHA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvNN_NNA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvNN_MA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvNN_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvNN_VA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvT_KA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvT_K_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvT_K_RA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvT_K_VA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvT_K_SSA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvT_KHA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvT_KH_RA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvT_TA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvT_T_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvT_T_VA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvT_THA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvT_NA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvT_N_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvT_PA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvT_P_RA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvT_P_LA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvT_PHA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvT_MA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvT_M_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvT_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvT_R_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvT_LA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvT_VA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvT_SA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvT_S_NA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvT_S_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvT_S_VA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvTH_NA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvTH_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvTH_VA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvD_GA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvD_G_RA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvD_GHA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvD_DA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvD_DHA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvD_NA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvD_BA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvD_B_RA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvD_BHA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvD_MA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvD_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvD_VA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvDH_NA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvDH_N_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvDH_MA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvDH_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvDH_VA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvN_KA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvN_K_SA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvN_CA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvN_CHA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvN_TTA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvN_DDA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvN_TA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvN_T_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvN_T_RA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvN_T_SA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvN_THA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvN_TH_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvN_TH_VA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvN_DA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvN_D_RA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvN_D_VA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvN_DHA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvN_DH_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvN_DH_RA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvN_DH_VA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvN_NA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvN_N_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvN_PA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvN_P_RA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvN_PHA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvN_PH_RA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvN_BHA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvN_BH_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvN_BH_VA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvN_MA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvN_M_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvN_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvN_VA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvN_SA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvN_S_TTA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvN_S_M_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvN_S_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvN_HA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvP_TTA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvP_TTHA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvP_TA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvP_T_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvP_NA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvP_PA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvP_PHA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvP_MA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvP_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvP_LA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvP_VA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvP_SA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvPH_JA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvPHx_JxA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvPH_TTA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvPH_TA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvPHx_TA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvPH_NA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvPH_PA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvPH_PHA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvPHx_PHxA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvPH_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvPH_LA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvPH_SHA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvPHx_SA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvB_JA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvB_JxA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvB_J_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvB_JHA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvB_TA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvB_DA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvB_DHA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvB_DH_VA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvB_NA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvB_BA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvB_BHA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvB_BH_RA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvB_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvB_LA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvB_L_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvB_VA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvB_SHA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvB_SA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvBH_NA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvBH_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvBH_R_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvBH_LA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvBH_VA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvM_TA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvM_DA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvM_NA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvM_PA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvM_P_RA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvM_BA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvM_B_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvM_B_RA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvM_BHA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvM_BH_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvM_BH_RA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvM_BH_VA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvM_MA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvM_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvM_LA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvM_VA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvM_SHA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvM_SA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvM_HA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvY_NA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvY_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvEyelash_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvEyelash_HA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvL_KA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvL_K_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvL_KHA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvL_GA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvL_JA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvL_JxA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvL_TTA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvL_TTHA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvL_DDA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvL_DDHA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvL_TA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvL_THA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvL_TH_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvL_DA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvL_D_RA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvL_PA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvL_PHA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvL_BA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvL_BHA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvL_MA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvL_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvL_LA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvL_L_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvL_VA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvL_V_DDA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvL_SA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvL_HA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvV_NA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvV_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvV_LA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvV_VA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvV_HA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvSH_KA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvSH_KxA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvSH_CA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvSH_CHA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvSH_TTA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvSH_TA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvSH_NA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvSH_MA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvSH_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvSH_LA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvSH_VA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvSH_SHA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvSS_KA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvSS_K_RA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvSS_TTA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvSS_TT_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvSS_TT_RA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvSS_TT_VA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvSS_TTHA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvSS_TTH_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvSS_TTH_RA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvSS_NNA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvSS_NN_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvSS_PA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvSS_P_RA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvSS_PHA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvSS_MA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvSS_M_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvSS_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvSS_VA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvSS_SSA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvS_KA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvS_K_RA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvS_K_VA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvS_KHA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvS_JA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvS_TTA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvS_TA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvS_T_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvS_T_RA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvS_T_VA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvS_THA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvS_TH_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvS_DA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvS_NA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvS_PA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvS_P_RA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvS_PHA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvS_BA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvS_MA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvS_M_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvS_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvS_LA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvS_VA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvS_SA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvH_NNA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvH_NA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvH_MA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvH_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvH_LA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvH_VA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvLL_YA" accents="dvNukta, dvmU, dvmUU, dvAnusvara, dvCandrabindu, dvmvR, dvmE, dvmAI, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvmII.longer" decompose="dvmII" category="Letter" subCategory="Modifier" unicode="" description="" script="devanagari"/>
+  <glyph name="dvReph_Anusvara" decompose="dvReph, dvAnusvara" anchors="_abvm" category="Letter" subCategory="Modifier" unicode="" description="" script="devanagari"/>
+  <glyph name="dvAnusvara.matrai" decompose="dvAnusvara" anchors="_abvm.matrai" category="Letter" subCategory="Modifier" unicode="" description="" script="devanagari"/>
+  <glyph name="dvReph.matrai" decompose="dvReph" anchors="_abvm.matrai" category="Letter" subCategory="Modifier" unicode="" description="" script="devanagari"/>
+  <glyph name="dvReph_Anusvara.matrai" decompose="dvReph_Anusvara" anchors="_abvm.matrai" category="Letter" subCategory="Modifier" unicode="" description="" script="devanagari"/>
+  <glyph name="dvII_Anusvara" decompose="dvII, dvAnusvara" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvmII_Anusvara" decompose="dvmII, dvAnusvara" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvmII_Reph" decompose="dvmII, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvmII_Reph_Anusvara" decompose="dvmII, dvReph_Anusvara" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvmII_Anusvara.longer" decompose="dvmII.longer, dvAnusvara" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvmII_Reph.longer" decompose="dvmII.longer, dvReph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvmII_Reph_Anusvara.longer" decompose="dvmII.longer, dvReph_Anusvara" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvmE_Anusvara" decompose="dvmE, dvAnusvara" anchors="_abvm" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvmE_Reph" decompose="dvmE, dvReph" anchors="_abvm" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvmE_Reph_Anusvara" decompose="dvmE, dvReph_Anusvara" anchors="_abvm" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvmAI_Anusvara" decompose="dvmAI, dvAnusvara" anchors="_abvm" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvmAI_Reph" decompose="dvmAI, dvReph" anchors="_abvm" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvmAI_Reph_Anusvara" decompose="dvmAI, dvReph_Anusvara" anchors="_abvm" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvmO_Anusvara" decompose="dvmA, dvmE_Anusvara" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvmO_Reph" decompose="dvmA, dvmE_Reph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvmO_Reph_Anusvara" decompose="dvmA, dvmE_Reph_Anusvara" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvmAU_Anusvara" decompose="dvmA, dvmAI_Anusvara" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvmAU_Reph" decompose="dvmA, dvmAI_Reph" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvmAU_Reph_Anusvara" decompose="dvmA, dvmAI_Reph_Anusvara" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvmEcandra_Anusvara" decompose="dvCandrabindu" anchors="_abvm" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvmOcandra_Anusvara" decompose="dvmA, dvCandrabindu" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvRA_mU" decompose="dvRA" anchors="abvm" accents="gjReph, gjAnusvara, gjCandrabindu" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvRA_mUU" decompose="dvRA" anchors="abvm" accents="gjReph, gjAnusvara, gjCandrabindu" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvHA_mU" decompose="dvHA, dvmU" anchors="abvm" accents="gjReph, gjAnusvara, gjCandrabindu" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvHA_mUU" decompose="dvHA, dvmUU" anchors="abvm" accents="gjReph, gjAnusvara, gjCandrabindu" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvDA_mvR" decompose="dvDA, dvmvR" anchors="abvm" accents="gjReph, gjAnusvara, gjCandrabindu" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvSHA_mvR" decompose="dvSHA, dvmvR" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvHA_mvR" decompose="dvHA, dvmvR" anchors="abvm" accents="gjReph, gjAnusvara, gjCandrabindu" category="Letter" subCategory="Ligature" unicode="" description="" script="devanagari"/>
+  <glyph name="dvmI.alt01" anchors="abvm.matrai" accents="dvAnusvara.matrai, dvReph.matrai, dvReph_Anusvara.matrai" category="Letter" subCategory="Modifier" unicode="" description="" script="devanagari"/>
+  <glyph name="dvmI.alt02" anchors="abvm.matrai" accents="dvAnusvara.matrai, dvReph.matrai, dvReph_Anusvara.matrai" category="Letter" subCategory="Modifier" unicode="" description="" script="devanagari"/>
+  <glyph name="dvmI.alt03" anchors="abvm.matrai" accents="dvAnusvara.matrai, dvReph.matrai, dvReph_Anusvara.matrai" category="Letter" subCategory="Modifier" unicode="" description="" script="devanagari"/>
+  <glyph name="dvmI.alt04" anchors="abvm.matrai" accents="dvAnusvara.matrai, dvReph.matrai, dvReph_Anusvara.matrai" category="Letter" subCategory="Modifier" unicode="" description="" script="devanagari"/>
+  <glyph name="dvmI.alt05" anchors="abvm.matrai" accents="dvAnusvara.matrai, dvReph.matrai, dvReph_Anusvara.matrai" category="Letter" subCategory="Modifier" unicode="" description="" script="devanagari"/>
+  <glyph name="dvmI.alt06" anchors="abvm.matrai" accents="dvAnusvara.matrai, dvReph.matrai, dvReph_Anusvara.matrai" category="Letter" subCategory="Modifier" unicode="" description="" script="devanagari"/>
+  <glyph name="dvmI.alt07" anchors="abvm.matrai" accents="dvAnusvara.matrai, dvReph.matrai, dvReph_Anusvara.matrai" category="Letter" subCategory="Modifier" unicode="" description="" script="devanagari"/>
+  <glyph name="dvmI.alt08" anchors="abvm.matrai" accents="dvAnusvara.matrai, dvReph.matrai, dvReph_Anusvara.matrai" category="Letter" subCategory="Modifier" unicode="" description="" script="devanagari"/>
+  <glyph name="dvmI.alt09" anchors="abvm.matrai" accents="dvAnusvara.matrai, dvReph.matrai, dvReph_Anusvara.matrai" category="Letter" subCategory="Modifier" unicode="" description="" script="devanagari"/>
+  <glyph name="dvmI.alt10" anchors="abvm.matrai" accents="dvAnusvara.matrai, dvReph.matrai, dvReph_Anusvara.matrai" category="Letter" subCategory="Modifier" unicode="" description="" script="devanagari"/>
+  <glyph name="dvmI.alt11" anchors="abvm.matrai" accents="dvAnusvara.matrai, dvReph.matrai, dvReph_Anusvara.matrai" category="Letter" subCategory="Modifier" unicode="" description="" script="devanagari"/>
+  <glyph name="dvmI.alt12" anchors="abvm.matrai" accents="dvAnusvara.matrai, dvReph.matrai, dvReph_Anusvara.matrai" category="Letter" subCategory="Modifier" unicode="" description="" script="devanagari"/>
+  <glyph name="dvmI.alt13" anchors="abvm.matrai" accents="dvAnusvara.matrai, dvReph.matrai, dvReph_Anusvara.matrai" category="Letter" subCategory="Modifier" unicode="" description="" script="devanagari"/>
+  <glyph name="dvmI.alt14" anchors="abvm.matrai" accents="dvAnusvara.matrai, dvReph.matrai, dvReph_Anusvara.matrai" category="Letter" subCategory="Modifier" unicode="" description="" script="devanagari"/>
+  <glyph name="dvmI.alt15" anchors="abvm.matrai" accents="dvAnusvara.matrai, dvReph.matrai, dvReph_Anusvara.matrai" category="Letter" subCategory="Modifier" unicode="" description="" script="devanagari"/>
+  <glyph name="dvmI.alt16" anchors="abvm.matrai" accents="dvAnusvara.matrai, dvReph.matrai, dvReph_Anusvara.matrai" category="Letter" subCategory="Modifier" unicode="" description="" script="devanagari"/>
+  <glyph name="dvmI.alt17" anchors="abvm.matrai" accents="dvAnusvara.matrai, dvReph.matrai, dvReph_Anusvara.matrai" category="Letter" subCategory="Modifier" unicode="" description="" script="devanagari"/>
+  <glyph name="dvmI.alt18" anchors="abvm.matrai" accents="dvAnusvara.matrai, dvReph.matrai, dvReph_Anusvara.matrai" category="Letter" subCategory="Modifier" unicode="" description="" script="devanagari"/>
+  <glyph name="dvmI.alt19" anchors="abvm.matrai" accents="dvAnusvara.matrai, dvReph.matrai, dvReph_Anusvara.matrai" category="Letter" subCategory="Modifier" unicode="" description="" script="devanagari"/>
+  <glyph name="dvmI.alt20" anchors="abvm.matrai" accents="dvAnusvara.matrai, dvReph.matrai, dvReph_Anusvara.matrai" category="Letter" subCategory="Modifier" unicode="" description="" script="devanagari"/>
+  <glyph name="dvmI.alt21" anchors="abvm.matrai" accents="dvAnusvara.matrai, dvReph.matrai, dvReph_Anusvara.matrai" category="Letter" subCategory="Modifier" unicode="" description="" script="devanagari"/>
+  <glyph name="dvmI.alt22" anchors="abvm.matrai" accents="dvAnusvara.matrai, dvReph.matrai, dvReph_Anusvara.matrai" category="Letter" subCategory="Modifier" unicode="" description="" script="devanagari"/>
+  <glyph name="dvmI.alt23" anchors="abvm.matrai" accents="dvAnusvara.matrai, dvReph.matrai, dvReph_Anusvara.matrai" category="Letter" subCategory="Modifier" unicode="" description="" script="devanagari"/>
+  <glyph name="dvmI.alt24" anchors="abvm.matrai" accents="dvAnusvara.matrai, dvReph.matrai, dvReph_Anusvara.matrai" category="Letter" subCategory="Modifier" unicode="" description="" script="devanagari"/>
+  <glyph name="dvmI.alt25" anchors="abvm.matrai" accents="dvAnusvara.matrai, dvReph.matrai, dvReph_Anusvara.matrai" category="Letter" subCategory="Modifier" unicode="" description="" script="devanagari"/>
+  <glyph name="dvmI.alt26" anchors="abvm.matrai" accents="dvAnusvara.matrai, dvReph.matrai, dvReph_Anusvara.matrai" category="Letter" subCategory="Modifier" unicode="" description="" script="devanagari"/>
+  <glyph name="dvmI.alt27" anchors="abvm.matrai" accents="dvAnusvara.matrai, dvReph.matrai, dvReph_Anusvara.matrai" category="Letter" subCategory="Modifier" unicode="" description="" script="devanagari"/>
+  <glyph name="dvmI.alt28" anchors="abvm.matrai" accents="dvAnusvara.matrai, dvReph.matrai, dvReph_Anusvara.matrai" category="Letter" subCategory="Modifier" unicode="" description="" script="devanagari"/>
+  <glyph name="dvmI.alt29" anchors="abvm.matrai" accents="dvAnusvara.matrai, dvReph.matrai, dvReph_Anusvara.matrai" category="Letter" subCategory="Modifier" unicode="" description="" script="devanagari"/>
+  <glyph name="dvmI.alt30" anchors="abvm.matrai" accents="dvAnusvara.matrai, dvReph.matrai, dvReph_Anusvara.matrai" category="Letter" subCategory="Modifier" unicode="" description="" script="devanagari"/>
+  <glyph name="dvmI.alt31" anchors="abvm.matrai" accents="dvAnusvara.matrai, dvReph.matrai, dvReph_Anusvara.matrai" category="Letter" subCategory="Modifier" unicode="" description="" script="devanagari"/>
+  <glyph name="dvmI.alt32" anchors="abvm.matrai" accents="dvAnusvara.matrai, dvReph.matrai, dvReph_Anusvara.matrai" category="Letter" subCategory="Modifier" unicode="" description="" script="devanagari"/>
+
+  <glyph name="gjA" category="Letter" unicode="0A85" description="GUJARATI LETTER A" script="gujarati"/>
+  <glyph name="gjAA" category="Letter" unicode="0A86" description="GUJARATI LETTER AA" script="gujarati"/>
+  <glyph name="gjI" category="Letter" unicode="0A87" description="GUJARATI LETTER I" script="gujarati"/>
+  <glyph name="gjII" category="Letter" unicode="0A88" description="GUJARATI LETTER II" script="gujarati"/>
+  <glyph name="gjU" category="Letter" unicode="0A89" description="GUJARATI LETTER U" script="gujarati"/>
+  <glyph name="gjUU" category="Letter" unicode="0A8A" description="GUJARATI LETTER UU" script="gujarati"/>
+  <glyph name="gjvR" category="Letter" unicode="0A8B" description="GUJARATI LETTER VOCALIC R" script="gujarati"/>
+  <glyph name="gjvRR" category="Letter" unicode="0AE0" description="GUJARATI LETTER VOCALIC RR" script="gujarati"/>
+  <glyph name="gjvL" category="Letter" unicode="0A8C" description="GUJARATI LETTER VOCALIC L" script="gujarati"/>
+  <glyph name="gjvLL" category="Letter" unicode="0AE1" description="GUJARATI LETTER VOCALIC LL" script="gujarati"/>
+  <glyph name="gjE" category="Letter" unicode="0A8F" description="GUJARATI LETTER E" script="gujarati"/>
+  <glyph name="gjAI" category="Letter" unicode="0A90" description="GUJARATI LETTER AI" script="gujarati"/>
+  <glyph name="gjO" category="Letter" unicode="0A93" description="GUJARATI LETTER O" script="gujarati"/>
+  <glyph name="gjAU" category="Letter" unicode="0A94" description="GUJARATI LETTER AU" script="gujarati"/>
+  <glyph name="gjEcandra" category="Letter" unicode="0A8D" description="GUJARATI VOWEL CANDRA E" script="gujarati"/>
+  <glyph name="gjOcandra" category="Letter" unicode="0A91" description="GUJARATI VOWEL CANDRA O" script="gujarati"/>
+  <glyph name="gjmAA" category="Mark" unicode="0ABE" description="GUJARATI VOWEL SIGN AA" script="gujarati"/>
+  <glyph name="gjmI" category="Mark" unicode="0ABF" description="GUJARATI VOWEL SIGN I" anchors="_top" script="gujarati"/>
+  <glyph name="gjmII" category="Mark" unicode="0AC0" description="GUJARATI VOWEL SIGN II" anchors="_top" script="gujarati"/>
+  <glyph name="gjmU" category="Mark" unicode="0AC1" description="GUJARATI VOWEL SIGN U" script="gujarati"/>
+  <glyph name="gjmUU" category="Mark" unicode="0AC2" description="GUJARATI VOWEL SIGN UU" script="gujarati"/>
+  <glyph name="gjmvR" category="Mark" unicode="0AC3" description="GUJARATI VOWEL SIGN VOCALIC R" script="gujarati"/>
+  <glyph name="gjmvRR" category="Mark" unicode="0AC4" description="GUJARATI VOWEL SIGN VOCALIC RR" script="gujarati"/>
+  <glyph name="gjmvL" category="Mark" unicode="0AE2" description="GUJARATI VOWEL SIGN VOCALIC L" anchors="_bottom" script="gujarati"/>
+  <glyph name="gjmvLL" category="Mark" unicode="0AE3" description="GUJARATI VOWEL SIGN VOCALIC LL" anchors="_bottom" script="gujarati"/>
+  <glyph name="gjmE" category="Mark" unicode="0AC7" description="GUJARATI VOWEL SIGN E" anchors="_top" script="gujarati"/>
+  <glyph name="gjmAI" category="Mark" unicode="0AC8" description="GUJARATI VOWEL SIGN AI" script="gujarati"/>
+  <glyph name="gjmO" category="Mark" unicode="0ACB" description="GUJARATI VOWEL SIGN O" script="gujarati"/>
+  <glyph name="gjmAU" category="Mark" subCategory="Spacing" unicode="0ACC" description="GUJARATI VOWEL SIGN AU" script="gujarati"/>
+  <glyph name="gjmEcandra" category="Mark" unicode="0AC5" description="GUJARATI VOWEL SIGN CANDRA E" script="gujarati"/>
+  <glyph name="gjmOcandra" category="Mark" unicode="0AC9" description="GUJARATI VOWEL SIGN CANDRA O" script="gujarati"/>
+  <glyph name="gjKA" category="Letter" unicode="0A95" description="GUJARATI LETTER KA" script="gujarati"/>
+  <glyph name="gjKHA" category="Letter" unicode="0A96" description="GUJARATI LETTER KHA" anchors="top, bottom" accents="gjmI, gjmE, gjAIlengthmark, gjVirama" script="gujarati"/>
+  <glyph name="gjGA" category="Letter" unicode="0A97" description="GUJARATI LETTER GA" script="gujarati"/>
+  <glyph name="gjGHA" category="Letter" unicode="0A98" description="GUJARATI LETTER GHA" script="gujarati"/>
+  <glyph name="gjNGA" category="Letter" unicode="0A99" description="GUJARATI LETTER NGA" anchors="top, bottom" accents="gjmI, gjmE, gjAIlengthmark, gjVirama" script="gujarati"/>
+  <glyph name="gjCA" category="Letter" unicode="0A9A" description="GUJARATI LETTER CA" script="gujarati"/>
+  <glyph name="gjCHA" category="Letter" unicode="0A9B" description="GUJARATI LETTER CHA" anchors="top, bottom" accents="gjmI, gjmE, gjAIlengthmark, gjVirama" script="gujarati"/>
+  <glyph name="gjJA" category="Letter" unicode="0A9C" description="GUJARATI LETTER JA" anchors="top, bottom" accents="gjmI, gjmE, gjAIlengthmark, gjVirama" script="gujarati"/>
+  <glyph name="gjJHA" category="Letter" unicode="0A9D" description="GUJARATI LETTER JHA" script="gujarati"/>
+  <glyph name="gjNYA" category="Letter" unicode="0A9E" description="GUJARATI LETTER NYA" anchors="top, bottom" accents="gjmI, gjmE, gjAIlengthmark, gjVirama" script="gujarati"/>
+  <glyph name="gjTTA" category="Letter" unicode="0A9F" description="GUJARATI LETTER TTA" script="gujarati"/>
+  <glyph name="gjTTHA" category="Letter" unicode="0AA0" description="GUJARATI LETTER TTHA" script="gujarati"/>
+  <glyph name="gjDDA" category="Letter" unicode="0AA1" description="GUJARATI LETTER DDA" script="gujarati"/>
+  <glyph name="gjDDHA" category="Letter" unicode="0AA2" description="GUJARATI LETTER DDHA" script="gujarati"/>
+  <glyph name="gjNNA" category="Letter" unicode="0AA3" description="GUJARATI LETTER NNA" anchors="top, bottom" accents="gjmI, gjmE, gjAIlengthmark, gjVirama" script="gujarati"/>
+  <glyph name="gjTA" category="Letter" unicode="0AA4" description="GUJARATI LETTER TA" script="gujarati"/>
+  <glyph name="gjTHA" category="Letter" unicode="0AA5" description="GUJARATI LETTER THA" script="gujarati"/>
+  <glyph name="gjDA" category="Letter" unicode="0AA6" description="GUJARATI LETTER DA" script="gujarati"/>
+  <glyph name="gjDHA" category="Letter" unicode="0AA7" description="GUJARATI LETTER DHA" script="gujarati"/>
+  <glyph name="gjNA" category="Letter" unicode="0AA8" description="GUJARATI LETTER NA" script="gujarati"/>
+  <glyph name="gjPA" category="Letter" unicode="0AAA" description="GUJARATI LETTER PA" script="gujarati"/>
+  <glyph name="gjPHA" category="Letter" unicode="0AAB" description="GUJARATI LETTER PHA" script="gujarati"/>
+  <glyph name="gjBA" category="Letter" unicode="0AAC" description="GUJARATI LETTER BA" anchors="top, bottom" accents="gjmI, gjmE, gjAIlengthmark, gjVirama" script="gujarati"/>
+  <glyph name="gjBHA" category="Letter" unicode="0AAD" description="GUJARATI LETTER BHA" anchors="top, bottom" accents="gjmI, gjmE, gjAIlengthmark, gjVirama" script="gujarati"/>
+  <glyph name="gjMA" category="Letter" unicode="0AAE" description="GUJARATI LETTER MA" script="gujarati"/>
+  <glyph name="gjYA" category="Letter" unicode="0AAF" description="GUJARATI LETTER YA" script="gujarati"/>
+  <glyph name="gjRA" category="Letter" unicode="0AB0" description="GUJARATI LETTER RA" script="gujarati"/>
+  <glyph name="gjLA" category="Letter" unicode="0AB2" description="GUJARATI LETTER LA" script="gujarati"/>
+  <glyph name="gjLLA" category="Letter" unicode="0AB3" description="GUJARATI LETTER LLA" script="gujarati"/>
+  <glyph name="gjVA" category="Letter" unicode="0AB5" description="GUJARATI LETTER VA" script="gujarati"/>
+  <glyph name="gjSHA" category="Letter" unicode="0AB6" description="GUJARATI LETTER SHA" script="gujarati"/>
+  <glyph name="gjSSA" category="Letter" unicode="0AB7" description="GUJARATI LETTER SSA" script="gujarati"/>
+  <glyph name="gjSA" category="Letter" unicode="0AB8" description="GUJARATI LETTER SA" script="gujarati"/>
+  <glyph name="gjHA" category="Letter" unicode="0AB9" description="GUJARATI LETTER HA" script="gujarati"/>
+  <glyph name="gjRRA" category="Letter" unicode="0C31" description="GUJARATI LETTER RRA" anchors="top, bottom" accents="gjmI, gjmE, gjAIlengthmark, gjVirama" script="gujarati"/>
+  <glyph name="gjAnuswara" category="Letter" unicode="0A82" description="GUJARATI SIGN ANUSWARA" script="gujarati"/>
+  <glyph name="gjCandrabindu" category="Letter" unicode="0A81" description="GUJARATI SIGN CANDRABINDU" script="gujarati"/>
+  <glyph name="gjVisarga" category="Letter" unicode="0A83" description="GUJARATI SIGN VISARGA" script="gujarati"/>
+  <glyph name="gjAvagraha" category="Letter" unicode="0ABD" description="GUJARATI SIGN AVAGRAHA" script="gujarati"/>
+  <glyph name="gjVirama" category="Letter" unicode="0ACD" description="GUJARATI SIGN VIRAMA" script="gujarati"/>
+  <glyph name="gjNukta" category="Letter" unicode="0ABC" description="GUJARATI SIGN NUKTA" script="gujarati"/>
+  <glyph name="gjZero" category="Number" subCategory="Decimal Digit" unicode="0AE6" description="GUJARATI DIGIT ZERO" script="gujarati"/>
+  <glyph name="gjOne" category="Number" subCategory="Decimal Digit" unicode="0AE7" description="GUJARATI DIGIT ONE" script="gujarati"/>
+  <glyph name="gjTwo" category="Number" subCategory="Decimal Digit" unicode="0AE8" description="GUJARATI DIGIT TWO" script="gujarati"/>
+  <glyph name="gjThree" category="Number" subCategory="Decimal Digit" unicode="0AE9" description="GUJARATI DIGIT THREE" script="gujarati"/>
+  <glyph name="gjFour" category="Number" subCategory="Decimal Digit" unicode="0AEA" description="GUJARATI DIGIT FOUR" script="gujarati"/>
+  <glyph name="gjFive" category="Number" subCategory="Decimal Digit" unicode="0AEB" description="GUJARATI DIGIT FIVE" script="gujarati"/>
+  <glyph name="gjSix" category="Number" subCategory="Decimal Digit" unicode="0AEC" description="GUJARATI DIGIT SIX" script="gujarati"/>
+  <glyph name="gjSeven" category="Number" subCategory="Decimal Digit" unicode="0AED" description="GUJARATI DIGIT SEVEN" script="gujarati"/>
+  <glyph name="gjEight" category="Number" subCategory="Decimal Digit" unicode="0AEE" description="GUJARATI DIGIT EIGHT" script="gujarati"/>
+  <glyph name="gjNine" category="Number" subCategory="Decimal Digit" unicode="0AEF" description="GUJARATI DIGIT NINE" script="gujarati"/>
+</glyphData>

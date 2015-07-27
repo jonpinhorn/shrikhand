@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gjmO" format="1">
+  <advance width="600"/>
+  <unicode hex="0ACB"/>
+  <outline>
+    <component base="gjmAA" xOffset="40"/>
+    <component base="gjmE" xOffset="531"/>
+  </outline>
+</glyph>

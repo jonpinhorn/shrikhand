@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gjE" format="1">
+  <advance width="1549"/>
+  <unicode hex="0A8F"/>
+  <outline>
+    <component base="gjA"/>
+    <component base="gjmE" xOffset="1480"/>
+  </outline>
+</glyph>

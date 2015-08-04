@@ -751,10 +751,7 @@
   <glyph name="gjSSA" category="Letter" unicode="0AB7" description="GUJARATI LETTER SSA" script="gujarati"/>
   <glyph name="gjSA" category="Letter" unicode="0AB8" description="GUJARATI LETTER SA" script="gujarati"/>
   <glyph name="gjHA" category="Letter" unicode="0AB9" description="GUJARATI LETTER HA" script="gujarati"/>
-<<<<<<< HEAD:Gujarati/Production/GlyphData.xml
   <glyph name="gjRRA" category="Letter" unicode="0C31" description="GUJARATI LETTER RRA" anchors="top, bottom" accents="gjmI, gjmE, gjAIlengthmark, gjVirama" script="gujarati"/>
-=======
->>>>>>> 1ce98b8dc0eb381d788e9cd34a1d57b55667672d:Gujarati/Production/GlyphData_GJ.xml
   <glyph name="gjAnuswara" category="Letter" unicode="0A82" description="GUJARATI SIGN ANUSWARA" script="gujarati"/>
   <glyph name="gjCandrabindu" category="Letter" unicode="0A81" description="GUJARATI SIGN CANDRABINDU" script="gujarati"/>
   <glyph name="gjVisarga" category="Letter" unicode="0A83" description="GUJARATI SIGN VISARGA" script="gujarati"/>
@@ -771,4 +768,31 @@
   <glyph name="gjSeven" category="Number" subCategory="Decimal Digit" unicode="0AED" description="GUJARATI DIGIT SEVEN" script="gujarati"/>
   <glyph name="gjEight" category="Number" subCategory="Decimal Digit" unicode="0AEE" description="GUJARATI DIGIT EIGHT" script="gujarati"/>
   <glyph name="gjNine" category="Number" subCategory="Decimal Digit" unicode="0AEF" description="GUJARATI DIGIT NINE" script="gujarati"/>
+
+  <glyph name="gjK" decompose="gjKA" category="Letter"  subcategory="Half Form" unicode="" description="GUJARATI LETTER K" script="gujarati"/>
+  <glyph name="gjKH" decompose="gjKHA" category="Letter"  subcategory="Half Form" unicode="" description="GUJARATI LETTER KH" anchors=""/>
+  <glyph name="gjG" decompose="gjGA" category="Letter"  subcategory="Half Form" unicode="" description="GUJARATI LETTER G" script="gujarati"/>
+  <glyph name="gjGH" decompose="gjGHA" category="Letter"  subcategory="Half Form" unicode="" description="GUJARATI LETTER GH" script="gujarati"/>
+  <glyph name="gjC" decompose="gjCA" category="Letter"  subcategory="Half Form" unicode="" description="GUJARATI LETTER C" script="gujarati"/>
+  <glyph name="gjJ" decompose="gjJA" category="Letter"  subcategory="Half Form" unicode="" description="GUJARATI LETTER J" anchors=""/>
+  <glyph name="gjNY" decompose="gjNYA" category="Letter"  subcategory="Half Form" unicode="" description="GUJARATI LETTER NY" anchors=""/>
+  <glyph name="gjNN" decompose="gjNNA" category="Letter"  subcategory="Half Form" unicode="" description="GUJARATI LETTER NN" anchors=""/>
+  <glyph name="gjT" decompose="gjTA" category="Letter"  subcategory="Half Form" unicode="" description="GUJARATI LETTER T" script="gujarati"/>
+  <glyph name="gjTH" decompose="gjTHA" category="Letter"  subcategory="Half Form" unicode="" description="GUJARATI LETTER TH" script="gujarati"/>
+  <glyph name="gjDH" decompose="gjDHA" category="Letter"  subcategory="Half Form" unicode="" description="GUJARATI LETTER DH" script="gujarati"/>
+  <glyph name="gjN" decompose="gjNA" category="Letter"  subcategory="Half Form" unicode="" description="GUJARATI LETTER N" script="gujarati"/>
+  <glyph name="gjP" decompose="gjPA" category="Letter"  subcategory="Half Form" unicode="" description="GUJARATI LETTER P" script="gujarati"/>
+  <glyph name="gjPH" decompose="gjPHA" category="Letter"  subcategory="Half Form" unicode="" description="GUJARATI LETTER PH" script="gujarati"/>
+  <glyph name="gjB" decompose="gjBA" category="Letter"  subcategory="Half Form" unicode="" description="GUJARATI LETTER B" anchors=""/>
+  <glyph name="gjBH" decompose="gjBHA" category="Letter"  subcategory="Half Form" unicode="" description="GUJARATI LETTER BH" anchors=""/>
+  <glyph name="gjM" decompose="gjMA" category="Letter"  subcategory="Half Form" unicode="" description="GUJARATI LETTER M" script="gujarati"/>
+  <glyph name="gjY" decompose="gjYA" category="Letter"  subcategory="Half Form" unicode="" description="GUJARATI LETTER Y" script="gujarati"/>
+  <glyph name="gjL" decompose="gjLA" category="Letter"  subcategory="Half Form" unicode="" description="GUJARATI LETTER L" script="gujarati"/>
+  <glyph name="gjLL" decompose="gjLLA" category="Letter"  subcategory="Half Form" unicode="" description="GUJARATI LETTER LL" script="gujarati"/>
+  <glyph name="gjV" decompose="gjVA" category="Letter"  subcategory="Half Form" unicode="" description="GUJARATI LETTER V" script="gujarati"/>
+  <glyph name="gjSH" decompose="gjSHA" category="Letter"  subcategory="Half Form" unicode="" description="GUJARATI LETTER SH" script="gujarati"/>
+  <glyph name="gjSS" decompose="gjSSA" category="Letter"  subcategory="Half Form" unicode="" description="GUJARATI LETTER SS" script="gujarati"/>
+  <glyph name="gjS" decompose="gjSA" category="Letter"  subcategory="Half Form" unicode="" description="GUJARATI LETTER S" script="gujarati"/>
+  <glyph name="gjH" decompose="gjHA" category="Letter"  subcategory="Half Form" unicode="" description="GUJARATI LETTER H" script="gujarati"/>
+  <glyph name="gjRR" decompose="gjRRA" category="Letter"  subcategory="Half Form" unicode="" description="GUJARATI LETTER RR" anchors=""/>
 </glyphData>

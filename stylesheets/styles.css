@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: "ShrikhandGujarati";
-  src: url("type/ShrikhandGujarati-Regular.eot");
+  src: url("stylesheets/type/ShrikhandGujarati-Regular.eot");
   src: local("☺"),
-    url("type/ShrikhandGujarati-Regular.woff2") format("woff2"),
-    url("type/ShrikhandGujarati-Regular.woff") format("woff"),
-    url("type/ShrikhandGujarati-Regular.otf") format("opentype");
+    url("stylesheets/type/ShrikhandGujarati-Regular.woff2") format("woff2"),
+    url("stylesheets/type/ShrikhandGujarati-Regular.woff") format("woff"),
+    url("stylesheets/type/ShrikhandGujarati-Regular.otf") format("opentype");
 }
 
 a:link, a:visited, a:hover, a:active {

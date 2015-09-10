@@ -795,4 +795,57 @@
   <glyph name="gjS" decompose="gjSA" category="Letter"  subcategory="Half Form" unicode="" description="GUJARATI LETTER S" script="gujarati"/>
   <glyph name="gjH" decompose="gjHA" category="Letter"  subcategory="Half Form" unicode="" description="GUJARATI LETTER H" script="gujarati"/>
   <glyph name="gjRR" decompose="gjRRA" category="Letter"  subcategory="Half Form" unicode="" description="GUJARATI LETTER RR" anchors=""/>
+
+  <glyph name="gjK_RA" decompose="gjKA" anchors="abvm, blwm" accents="gjNukta, gjmU, gjmUU, gjAnusvara, gjCandrabindu, gjmvR, gjmE, gjmAI, gjReph" category="Letter"  subcategory="Consonant" unicode="" description="" script="gujarati"/>
+  <glyph name="gjKH_RA" decompose="gjKHA" anchors="abvm, blwm" accents="gjNukta, gjmU, gjmUU, gjAnusvara, gjCandrabindu, gjmvR, gjmE, gjmAI, gjReph" category="Letter"  subcategory="Consonant" unicode="" description="" anchors=""/>
+  <glyph name="gjG_RA" decompose="gjGA" anchors="abvm, blwm" accents="gjNukta, gjmU, gjmUU, gjAnusvara, gjCandrabindu, gjmvR, gjmE, gjmAI, gjReph" category="Letter"  subcategory="Consonant" unicode="" description="" script="gujarati"/>
+  <glyph name="gjGH_RA" decompose="gjGHA" anchors="abvm, blwm" accents="gjNukta, gjmU, gjmUU, gjAnusvara, gjCandrabindu, gjmvR, gjmE, gjmAI, gjReph" category="Letter"  subcategory="Consonant" unicode="" description="" script="gujarati"/>
+  <glyph name="gjC_RA" decompose="gjCA" anchors="abvm, blwm" accents="gjNukta, gjmU, gjmUU, gjAnusvara, gjCandrabindu, gjmvR, gjmE, gjmAI, gjReph" category="Letter"  subcategory="Consonant" unicode="" description="" script="gujarati"/>
+  <glyph name="gjJ_RA" decompose="gjJA" anchors="abvm, blwm" accents="gjNukta, gjmU, gjmUU, gjAnusvara, gjCandrabindu, gjmvR, gjmE, gjmAI, gjReph" category="Letter"  subcategory="Consonant" unicode="" description="" anchors=""/>
+  <glyph name="gjNY_RA" decompose="gjNYA" anchors="abvm, blwm" accents="gjNukta, gjmU, gjmUU, gjAnusvara, gjCandrabindu, gjmvR, gjmE, gjmAI, gjReph" category="Letter"  subcategory="Consonant" unicode="" description="" anchors=""/>
+  <glyph name="gjNN_RA" decompose="gjNNA" anchors="abvm, blwm" accents="gjNukta, gjmU, gjmUU, gjAnusvara, gjCandrabindu, gjmvR, gjmE, gjmAI, gjReph" category="Letter"  subcategory="Consonant" unicode="" description="" anchors=""/>
+  <glyph name="gjT_RA" decompose="gjTA" anchors="abvm, blwm" accents="gjNukta, gjmU, gjmUU, gjAnusvara, gjCandrabindu, gjmvR, gjmE, gjmAI, gjReph" category="Letter"  subcategory="Consonant" unicode="" description="" script="gujarati"/>
+  <glyph name="gjTH_RA" decompose="gjTHA" anchors="abvm, blwm" accents="gjNukta, gjmU, gjmUU, gjAnusvara, gjCandrabindu, gjmvR, gjmE, gjmAI, gjReph" category="Letter"  subcategory="Consonant" unicode="" description="" script="gujarati"/>
+  <glyph name="gjDH_RA" decompose="gjDHA" anchors="abvm, blwm" accents="gjNukta, gjmU, gjmUU, gjAnusvara, gjCandrabindu, gjmvR, gjmE, gjmAI, gjReph" category="Letter"  subcategory="Consonant" unicode="" description="" script="gujarati"/>
+  <glyph name="gjN_RA" decompose="gjNA" anchors="abvm, blwm" accents="gjNukta, gjmU, gjmUU, gjAnusvara, gjCandrabindu, gjmvR, gjmE, gjmAI, gjReph" category="Letter"  subcategory="Consonant" unicode="" description="" script="gujarati"/>
+  <glyph name="gjP_RA" decompose="gjPA" anchors="abvm, blwm" accents="gjNukta, gjmU, gjmUU, gjAnusvara, gjCandrabindu, gjmvR, gjmE, gjmAI, gjReph" category="Letter"  subcategory="Consonant" unicode="" description="" script="gujarati"/>
+  <glyph name="gjPH_RA" decompose="gjPHA" anchors="abvm, blwm" accents="gjNukta, gjmU, gjmUU, gjAnusvara, gjCandrabindu, gjmvR, gjmE, gjmAI, gjReph" category="Letter"  subcategory="Consonant" unicode="" description="" script="gujarati"/>
+  <glyph name="gjB_RA" decompose="gjBA" anchors="abvm, blwm" accents="gjNukta, gjmU, gjmUU, gjAnusvara, gjCandrabindu, gjmvR, gjmE, gjmAI, gjReph" category="Letter"  subcategory="Consonant" unicode="" description="" anchors=""/>
+  <glyph name="gjBH_RA" decompose="gjBHA" anchors="abvm, blwm" accents="gjNukta, gjmU, gjmUU, gjAnusvara, gjCandrabindu, gjmvR, gjmE, gjmAI, gjReph" category="Letter"  subcategory="Consonant" unicode="" description="" anchors=""/>
+  <glyph name="gjM_RA" decompose="gjMA" anchors="abvm, blwm" accents="gjNukta, gjmU, gjmUU, gjAnusvara, gjCandrabindu, gjmvR, gjmE, gjmAI, gjReph" category="Letter"  subcategory="Consonant" unicode="" description="" script="gujarati"/>
+  <glyph name="gjY_RA" decompose="gjYA" anchors="abvm, blwm" accents="gjNukta, gjmU, gjmUU, gjAnusvara, gjCandrabindu, gjmvR, gjmE, gjmAI, gjReph" category="Letter"  subcategory="Consonant" unicode="" description="" script="gujarati"/>
+  <glyph name="gjL_RA" decompose="gjLA" anchors="abvm, blwm" accents="gjNukta, gjmU, gjmUU, gjAnusvara, gjCandrabindu, gjmvR, gjmE, gjmAI, gjReph" category="Letter"  subcategory="Consonant" unicode="" description="" script="gujarati"/>
+  <glyph name="gjLL_RA" decompose="gjLLA" anchors="abvm, blwm" accents="gjNukta, gjmU, gjmUU, gjAnusvara, gjCandrabindu, gjmvR, gjmE, gjmAI, gjReph" category="Letter"  subcategory="Consonant" unicode="" description="" script="gujarati"/>
+  <glyph name="gjV_RA" decompose="gjVA" anchors="abvm, blwm" accents="gjNukta, gjmU, gjmUU, gjAnusvara, gjCandrabindu, gjmvR, gjmE, gjmAI, gjReph" category="Letter"  subcategory="Consonant" unicode="" description="" script="gujarati"/>
+  <glyph name="gjSH_RA" decompose="gjSHA" anchors="abvm, blwm" accents="gjNukta, gjmU, gjmUU, gjAnusvara, gjCandrabindu, gjmvR, gjmE, gjmAI, gjReph" category="Letter"  subcategory="Consonant" unicode="" description="" script="gujarati"/>
+  <glyph name="gjSS_RA" decompose="gjSSA" anchors="abvm, blwm" accents="gjNukta, gjmU, gjmUU, gjAnusvara, gjCandrabindu, gjmvR, gjmE, gjmAI, gjReph" category="Letter"  subcategory="Consonant" unicode="" description="" script="gujarati"/>
+  <glyph name="gjS_RA" decompose="gjSA" anchors="abvm, blwm" accents="gjNukta, gjmU, gjmUU, gjAnusvara, gjCandrabindu, gjmvR, gjmE, gjmAI, gjReph" category="Letter"  subcategory="Consonant" unicode="" description="" script="gujarati"/>
+  <glyph name="gjH_RA" decompose="gjHA" anchors="abvm, blwm" accents="gjNukta, gjmU, gjmUU, gjAnusvara, gjCandrabindu, gjmvR, gjmE, gjmAI, gjReph" category="Letter"  subcategory="Consonant" unicode="" description="" script="gujarati"/>
+
+  <glyph name="gjK_R" decompose="gjK_RA" category="Letter" subcategory="Half forms" unicode="" description="" script="gujarati"/>
+  <glyph name="gjKH_R" decompose="gjKH_RA" category="Letter" subcategory="Half forms" unicode="" description="" anchors=""/>
+  <glyph name="gjG_R" decompose="gjG_RA" category="Letter" subcategory="Half forms" unicode="" description="" script="gujarati"/>
+  <glyph name="gjGH_R" decompose="gjGH_RA" category="Letter" subcategory="Half forms" unicode="" description="" script="gujarati"/>
+  <glyph name="gjC_R" decompose="gjC_RA" category="Letter" subcategory="Half forms" unicode="" description="" script="gujarati"/>
+  <glyph name="gjJ_R" decompose="gjJ_RA" category="Letter" subcategory="Half forms" unicode="" description="" anchors=""/>
+  <glyph name="gjNY_R" decompose="gjNY_RA" category="Letter" subcategory="Half forms" unicode="" description="" anchors=""/>
+  <glyph name="gjNN_R" decompose="gjNN_RA" category="Letter" subcategory="Half forms" unicode="" description="" anchors=""/>
+  <glyph name="gjT_R" decompose="gjT_RA" category="Letter" subcategory="Half forms" unicode="" description="" script="gujarati"/>
+  <glyph name="gjTH_R" decompose="gjTH_RA" category="Letter" subcategory="Half forms" unicode="" description="" script="gujarati"/>
+  <glyph name="gjDH_R" decompose="gjDH_RA" category="Letter" subcategory="Half forms" unicode="" description="" script="gujarati"/>
+  <glyph name="gjN_R" decompose="gjN_RA" category="Letter" subcategory="Half forms" unicode="" description="" script="gujarati"/>
+  <glyph name="gjP_R" decompose="gjP_RA" category="Letter" subcategory="Half forms" unicode="" description="" script="gujarati"/>
+  <glyph name="gjPH_R" decompose="gjPH_RA" category="Letter" subcategory="Half forms" unicode="" description="" script="gujarati"/>
+  <glyph name="gjB_R" decompose="gjB_RA" category="Letter" subcategory="Half forms" unicode="" description="" anchors=""/>
+  <glyph name="gjBH_R" decompose="gjBH_RA" category="Letter" subcategory="Half forms" unicode="" description="" anchors=""/>
+  <glyph name="gjM_R" decompose="gjM_RA" category="Letter" subcategory="Half forms" unicode="" description="" script="gujarati"/>
+  <glyph name="gjY_R" decompose="gjY_RA" category="Letter" subcategory="Half forms" unicode="" description="" script="gujarati"/>
+  <glyph name="gjL_R" decompose="gjL_RA" category="Letter" subcategory="Half forms" unicode="" description="" script="gujarati"/>
+  <glyph name="gjLL_R" decompose="gjLL_RA" category="Letter" subcategory="Half forms" unicode="" description="" script="gujarati"/>
+  <glyph name="gjV_R" decompose="gjV_RA" category="Letter" subcategory="Half forms" unicode="" description="" script="gujarati"/>
+  <glyph name="gjSH_R" decompose="gjSH_RA" category="Letter" subcategory="Half forms" unicode="" description="" script="gujarati"/>
+  <glyph name="gjSS_R" decompose="gjSS_RA" category="Letter" subcategory="Half forms" unicode="" description="" script="gujarati"/>
+  <glyph name="gjS_R" decompose="gjS_RA" category="Letter" subcategory="Half forms" unicode="" description="" script="gujarati"/>
+  <glyph name="gjH_R" decompose="gjH_RA" category="Letter" subcategory="Half forms" unicode="" description="" script="gujarati"/>
+
 </glyphData>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="gjmAU" format="1">
-  <advance width="600"/>
-  <unicode hex="0ACC"/>
-  <outline>
-    <component base="gjmAA" xOffset="39"/>
-    <component base="gjmAI" xOffset="530"/>
-  </outline>
-</glyph>

@@ -3,17 +3,23 @@
 @font-face {
   font-family: "ShrikhandGujarati";
 <<<<<<< HEAD
+<<<<<<< HEAD
   src: url("stylesheets/type/ShrikhandGujarati-Regular.eot");
   src: local("☺"),
     url("stylesheets/type/ShrikhandGujarati-Regular.woff2") format("woff2"),
     url("stylesheets/type/ShrikhandGujarati-Regular.woff") format("woff"),
     url("stylesheets/type/ShrikhandGujarati-Regular.otf") format("opentype");
 =======
+=======
+>>>>>>> jonpinhorn/gh-pages
   src: url("type/ShrikhandGujarati-Regular.eot");
   src: local("☺"),
     url("type/ShrikhandGujarati-Regular.woff2") format("woff2"),
     url("type/ShrikhandGujarati-Regular.woff") format("woff"),
     url("type/ShrikhandGujarati-Regular.otf") format("opentype");
+<<<<<<< HEAD
+>>>>>>> jonpinhorn/gh-pages
+=======
 >>>>>>> jonpinhorn/gh-pages
 }
 

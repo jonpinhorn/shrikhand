@@ -263,58 +263,58 @@ lookup vatu_old {
 # Conjunct Forms
 # --------------
 
-# lookup cjct_new {
-#
-#   # sub gjNGA gjVirama gjNGA by gjNG_NGA;
-#   # sub gjNGA gjVirama gjYA by gjNG_YA;
-#   # sub gjNGA gjVirama gjVA by gjNG_VA;
-#
-#   sub gjCHA gjVirama gjYA by gjCH_YA;
-#   sub gjCHA gjVirama gjVA by gjCH_VA;
-#
-#   sub gjTTA gjVirama gjTTA by gjTT_TTA;
-#   sub gjTTA gjVirama gjTTHA by gjTT_TTHA;
-#   sub gjTTA gjVirama gjYA by gjTT_YA;
-#   sub gjTTA gjVirama gjVA by gjTT_VA;
-#
-#   sub gjTTHA gjVirama gjTTHA by gjTTH_TTHA;
-#   sub gjTTHA gjVirama gjYA by gjTTH_YA;
-#   # sub gjTTHA gjVirama gjVA by gjTTH_VA;
-#
-#   sub gjDDA gjVirama gjDDA by gjDD_DDA;
-#   sub gjDDA gjVirama gjDDHA by gjDD_DDHA;
-#   sub gjDDA gjVirama gjYA by gjDD_YA;
-#   sub gjDDA gjVirama gjVA by gjDD_VA;
-#
-#   sub gjDDHA gjVirama gjDDHA by gjDDH_DDHA;
-#   sub gjDDHA gjVirama gjYA by gjDDH_YA;
-#   # sub gjDDHA gjVirama gjVA by gjDDH_VA;
-#
-#   # sub gjDA gjVirama gjGA by gjD_GA;
-#   # sub gjDA gjVirama gjG_RA by gjD_G_RA;
-#   sub gjDA gjVirama gjGHA by gjD_GHA;
-#   sub gjDA gjVirama gjDA by gjD_DA;
-#   sub gjDA gjVirama gjDHA by gjD_DHA;
-#   # sub gjDA gjVirama gjDH gjYA by gjD_DH_YA;
-#   sub gjDA gjVirama gjNA by gjD_NA;
-#   # sub gjDA gjVirama gjBA by gjD_BA;
-#   # sub gjDA gjVirama gjB_RA by gjD_B_RA;
-#   sub gjDA gjVirama gjBHA by gjD_BHA;
-#   # sub gjDA gjVirama gjBH gjYA by gjD_BH_YA;
-#   sub gjDA gjVirama gjMA by gjD_MA;
-#   sub gjDA gjVirama gjYA by gjD_YA;
-#   # sub gjD_RA gjVirama gjYA by gjD_R_YA;
-#   sub gjDA gjVirama gjVA by gjD_VA;
-#   # sub gjDA gjVirama gjV gjYA by gjD_V_YA;
-#
-#   # sub gjHA gjVirama gjNNA by gjH_NNA;
-#   sub gjHA gjVirama gjNA by gjH_NA;
-#   sub gjHA gjVirama gjMA by gjH_MA;
-#   sub gjHA gjVirama gjYA by gjH_YA;
-#   # sub gjHA gjVirama gjLA by gjH_LA;
-#   sub gjHA gjVirama gjVA by gjH_VA;
-#
-# } cjct_new;
+lookup cjct_new {
+
+  # sub gjNGA gjVirama gjNGA by gjNG_NGA;
+  # sub gjNGA gjVirama gjYA by gjNG_YA;
+  # sub gjNGA gjVirama gjVA by gjNG_VA;
+
+  sub gjCHA gjVirama gjYA by gjCH_YA;
+  sub gjCHA gjVirama gjVA by gjCH_VA;
+
+  sub gjTTA gjVirama gjTTA by gjTT_TTA;
+  sub gjTTA gjVirama gjTTHA by gjTT_TTHA;
+  sub gjTTA gjVirama gjYA by gjTT_YA;
+  sub gjTTA gjVirama gjVA by gjTT_VA;
+
+  sub gjTTHA gjVirama gjTTHA by gjTTH_TTHA;
+  sub gjTTHA gjVirama gjYA by gjTTH_YA;
+  # sub gjTTHA gjVirama gjVA by gjTTH_VA;
+
+  sub gjDDA gjVirama gjDDA by gjDD_DDA;
+  sub gjDDA gjVirama gjDDHA by gjDD_DDHA;
+  sub gjDDA gjVirama gjYA by gjDD_YA;
+  sub gjDDA gjVirama gjVA by gjDD_VA;
+
+  sub gjDDHA gjVirama gjDDHA by gjDDH_DDHA;
+  sub gjDDHA gjVirama gjYA by gjDDH_YA;
+  # sub gjDDHA gjVirama gjVA by gjDDH_VA;
+
+  # sub gjDA gjVirama gjGA by gjD_GA;
+  # sub gjDA gjVirama gjG_RA by gjD_G_RA;
+  sub gjDA gjVirama gjGHA by gjD_GHA;
+  sub gjDA gjVirama gjDA by gjD_DA;
+  sub gjDA gjVirama gjDHA by gjD_DHA;
+  # sub gjDA gjVirama gjDH gjYA by gjD_DH_YA;
+  sub gjDA gjVirama gjNA by gjD_NA;
+  # sub gjDA gjVirama gjBA by gjD_BA;
+  # sub gjDA gjVirama gjB_RA by gjD_B_RA;
+  sub gjDA gjVirama gjBHA by gjD_BHA;
+  # sub gjDA gjVirama gjBH gjYA by gjD_BH_YA;
+  sub gjDA gjVirama gjMA by gjD_MA;
+  sub gjDA gjVirama gjYA by gjD_YA;
+  # sub gjD_RA gjVirama gjYA by gjD_R_YA;
+  sub gjDA gjVirama gjVA by gjD_VA;
+  # sub gjDA gjVirama gjV gjYA by gjD_V_YA;
+
+  # sub gjHA gjVirama gjNNA by gjH_NNA;
+  sub gjHA gjVirama gjNA by gjH_NA;
+  sub gjHA gjVirama gjMA by gjH_MA;
+  sub gjHA gjVirama gjYA by gjH_YA;
+  # sub gjHA gjVirama gjLA by gjH_LA;
+  sub gjHA gjVirama gjVA by gjH_VA;
+
+} cjct_new;
 
 
 # ----------------------------
@@ -341,343 +341,343 @@ lookup pres_decompose {
 
 } pres_decompose;
 
-# lookup pres {
-#   sub gjK gjKA by gjK_KA;
-#   sub gjK gjKHA by gjK_KHA;
-#   sub gjK gjCA by gjK_CA;
-#   sub gjK gjJA by gjK_JA;
-#   sub gjK gjTTA by gjK_TTA;
-#   # sub gjK gjTTHA by gjK_TTHA; #!
-#   sub gjK gjNNA by gjK_NNA;
-#   sub gjK gjTA by gjK_TA;
-#   sub gjK gjT gjYA by gjK_T_YA;
-#   sub gjK gjT_RA by gjK_T_RA;
-#   sub gjK gjT gjVA by gjK_T_VA;
-#   sub gjK gjTHA by gjK_THA; #!
-#   sub gjK gjDA by gjK_DA;
-#   sub gjK gjNA by gjK_NA;
-#   sub gjK gjPA by gjK_PA;
-#   sub gjK gjP_RA by gjK_P_RA;
-#   sub gjK gjPHA by gjK_PHA;
-#   sub gjK gjMA by gjK_MA;
-#   sub gjK gjYA by gjK_YA;
-#   sub gjK gjLA by gjK_LA;
-#   sub gjK gjVA by gjK_VA;
-#   sub gjK gjV gjYA by gjK_V_YA;
-#   sub gjK gjSHA by gjK_SHA;
-#   sub gjK gjSS gjMA by gjK_SS_MA;
-#   sub gjK gjSS gjM gjYA by gjK_SS_M_YA;
-#   sub gjK gjSS gjYA by gjK_SS_YA;
-#   sub gjK gjSS gjVA by gjK_SS_VA;
-#   sub gjK gjSA by gjK_SA;
-#   sub gjK gjS gjTTA by gjK_S_TTA;
-#   sub gjK gjS gjDDA by gjK_S_DDA;
-#   sub gjK gjS gjTA by gjK_S_TA;
-#   sub gjK gjS gjP_RA by gjK_S_P_RA;
-#   sub gjK gjS gjP gjLA by gjK_S_P_LA;
-#   sub gjKH gjKHA by gjKH_KHA;
-#   sub gjKH gjTA by gjKH_TA;
-#   sub gjKH gjNA by gjKH_NA;
-#   sub gjKH gjMA by gjKH_MA;
-#   sub gjKH gjYA by gjKH_YA;
-#   sub gjKH gjSHA by gjKH_SHA;
-#   sub gjKH gjSA by gjKH_SA;
-#   sub gjG gjNA by gjG_NA;
-#   sub gjG_R gjYA by gjG_R_YA;
-#   sub gjGH gjNA by gjGH_NA;
-#   sub gjGH gjMA by gjGH_MA;
-#   sub gjGH gjYA by gjGH_YA;
-#   sub gjC gjCA by gjC_CA;
-#   sub gjC gjCHA by gjC_CHA;
-#   sub gjC gjNA by gjC_NA;
-#   sub gjC gjMA by gjC_MA;
-#   sub gjC gjYA by gjC_YA;
-#   sub gjJ gjKA by gjJ_KA;
-#   sub gjJ gjJA by gjJ_JA;
-#   sub gjJ gjJ gjYA by gjJ_J_YA;
-#   sub gjJ gjJ gjVA by gjJ_J_VA;
-#   sub gjJ gjJHA by gjJ_JHA;
-#   sub gjJ gjNY gjYA by gjJ_NY_YA;
-#   sub gjJ gjTTA by gjJ_TTA;
-#   sub gjJ gjDDA by gjJ_DDA;
-#   sub gjJ gjTA by gjJ_TA;
-#   sub gjJ gjDA by gjJ_DA;
-#   sub gjJ gjNA by gjJ_NA;
-#   sub gjJ gjMA by gjJ_MA;
-#   sub gjJ gjYA by gjJ_YA;
-#   sub gjNY gjJA by gjNY_JA;
-#   sub gjT gjKA by gjT_KA;
-#   sub gjT gjK gjYA by gjT_K_YA;
-#   sub gjT gjK_RA by gjT_K_RA;
-#   sub gjT gjK gjVA by gjT_K_VA;
-#   sub gjT gjK gjSSA by gjT_K_SSA;
-#   sub gjT gjKHA by gjT_KHA;
-#   sub gjT gjKH gjNA by gjT_KH_NA;
-#   sub gjT gjKH_RA by gjT_KH_RA;
-#   sub gjT gjTA by gjT_TA;
-#   sub gjT gjT by gjT_T;
-#   sub gjT gjT gjYA by gjT_T_YA;
-#   sub gjT gjT gjVA by gjT_T_VA;
-#   sub gjT gjTHA by gjT_THA;
-#   sub gjT gjNA by gjT_NA;
-#   sub gjT gjN gjYA by gjT_N_YA;
-#   sub gjT gjPA by gjT_PA;
-#   sub gjT gjP_RA by gjT_P_RA;
-#   sub gjT gjP gjLA by gjT_P_LA;
-#   sub gjT gjPHA by gjT_PHA;
-#   sub gjT gjMA by gjT_MA;
-#   sub gjT gjM gjYA by gjT_M_YA;
-#   sub gjT gjYA by gjT_YA;
-#   sub gjT_R gjYA by gjT_R_YA;
-#   sub gjT gjLA by gjT_LA;
-#   sub gjT gjVA by gjT_VA;
-#   sub gjT gjSA by gjT_SA;
-#   sub gjT gjS gjNA by gjT_S_NA;
-#   sub gjT gjS gjYA by gjT_S_YA;
-#   sub gjT gjS gjVA by gjT_S_VA;
-#   sub gjTH gjNA by gjTH_NA;
-#   sub gjTH gjYA by gjTH_YA;
-#   sub gjTH gjVA by gjTH_VA;
-#   sub gjDH gjNA by gjDH_NA;
-#   sub gjDH gjN gjYA by gjDH_N_YA;
-#   sub gjDH gjMA by gjDH_MA;
-#   sub gjDH gjYA by gjDH_YA;
-#   sub gjDH gjVA by gjDH_VA;
-#   sub gjN gjKA by gjN_KA;
-#   sub gjN gjK gjSA by gjN_K_SA;
-#   sub gjN gjCHA by gjN_CHA;
-#   sub gjN gjJHA by gjN_JHA;
-#   sub gjN gjTTA by gjN_TTA;
-#   sub gjN gjDDA by gjN_DDA;
-#   sub gjN gjTA by gjN_TA;
-#   sub gjN gjT gjYA by gjN_T_YA;
-#   sub gjN gjT_RA by gjN_T_RA;
-#   sub gjN gjT gjSA by gjN_T_SA;
-#   sub gjN gjTHA by gjN_THA;
-#   sub gjN gjTH gjYA by gjN_TH_YA;
-#   sub gjN gjTH gjVA by gjN_TH_VA;
-#   sub gjN gjDA by gjN_DA;
-#   sub gjN gjDHA by gjN_DHA;
-#   sub gjN gjDH gjYA by gjN_DH_YA;
-#   sub gjN gjDH_RA by gjN_DH_RA;
-#   sub gjN gjDH gjVA by gjN_DH_VA;
-#   sub gjN gjNA by gjN_NA;
-#   sub gjN gjN gjYA by gjN_N_YA;
-#   sub gjN gjPA by gjN_PA;
-#   sub gjN gjP_RA by gjN_P_RA;
-#   sub gjN gjPHA by gjN_PHA;
-#   sub gjN gjBHA by gjN_BHA;
-#   sub gjN gjBH gjVA by gjN_BH_VA;
-#   sub gjN gjMA by gjN_MA;
-#   sub gjN gjM gjYA by gjN_M_YA;
-#   sub gjN gjYA by gjN_YA;
-#   sub gjN gjSA by gjN_SA;
-#   sub gjN gjS gjTTA by gjN_S_TTA;
-#   sub gjN gjS gjM gjYA by gjN_S_M_YA;
-#   sub gjN gjS gjYA by gjN_S_YA;
-#   sub gjP gjTTA by gjP_TTA;
-#   sub gjP gjTTHA by gjP_TTHA;
-#   sub gjP gjTA by gjP_TA;
-#   sub gjP gjNA by gjP_NA;
-#   sub gjP gjPA by gjP_PA;
-#   sub gjP gjPHA by gjP_PHA;
-#   sub gjP gjMA by gjP_MA;
-#   sub gjP gjYA by gjP_YA;
-#   sub gjP gjLA by gjP_LA;
-#   sub gjP gjVA by gjP_VA;
-#   sub gjPH gjJA by gjPH_JA;
-#   sub gjPH gjTTA by gjPH_TTA;
-#   sub gjPH gjTA by gjPH_TA;
-#   sub gjPH gjNA by gjPH_NA;
-#   sub gjPH gjPA by gjPH_PA;
-#   sub gjPH gjPHA by gjPH_PHA;
-#   sub gjPH gjYA by gjPH_YA;
-#   sub gjPH gjSHA by gjPH_SHA;
-#   sub gjPH gjSA by gjPH_SA;
-#   sub gjB gjJA by gjB_JA;
-#   sub gjB gjJ gjYA by gjB_J_YA;
-#   sub gjB gjJHA by gjB_JHA;
-#   sub gjB gjDA by gjB_DA;
-#   sub gjB gjDHA by gjB_DHA;
-#   sub gjB gjDH gjVA by gjB_DH_VA;
-#   sub gjB gjNA by gjB_NA;
-#   sub gjB gjBA by gjB_BA;
-#   sub gjB gjYA by gjB_YA;
-#   sub gjB gjSHA by gjB_SHA;
-#   sub gjB gjSA by gjB_SA;
-#   sub gjBH gjNA by gjBH_NA;
-#   sub gjBH gjYA by gjBH_YA;
-#   sub gjBH gjLA by gjBH_LA;
-#   sub gjBH gjVA by gjBH_VA;
-#   sub gjM gjDA by gjM_DA;
-#   sub gjM gjNA by gjM_NA;
-#   sub gjM gjPA by gjM_PA;
-#   sub gjM gjP_RA by gjM_P_RA;
-#   sub gjM gjBA by gjM_BA;
-#   sub gjM gjB gjYA by gjM_B_YA;
-#   sub gjM gjB_RA by gjM_B_RA;
-#   sub gjM gjBHA by gjM_BHA;
-#   sub gjM gjMA by gjM_MA;
-#   sub gjM gjYA by gjM_YA;
-#   sub gjM_R gjMA by gjM_R_MA;
-#   sub gjM gjVA by gjM_VA;
-#   sub gjM gjSHA by gjM_SHA;
-#   sub gjM gjSA by gjM_SA;
-#   sub gjY gjNA by gjY_NA;
-#   sub gjY gjYA by gjY_YA;
-#   sub gjL gjKA by gjL_KA;
-#   sub gjL gjK gjYA by gjL_K_YA;
-#   sub gjL gjKHA by gjL_KHA;
-#   sub gjL gjGA by gjL_GA;
-#   sub gjL gjJA by gjL_JA;
-#   sub gjL gjTTA by gjL_TTA;
-#   sub gjL gjTTHA by gjL_TTHA;
-#   sub gjL gjDDA by gjL_DDA;
-#   sub gjL gjDDHA by gjL_DDHA;
-#   sub gjL gjTA by gjL_TA;
-#   sub gjL gjTHA by gjL_THA;
-#   sub gjL gjTH gjYA by gjL_TH_YA;
-#   sub gjL gjDA by gjL_DA;
-#   sub gjL gjD_RA by gjL_D_RA;
-#   sub gjL gjPA by gjL_PA;
-#   sub gjL gjPHA by gjL_PHA;
-#   sub gjL gjBHA by gjL_BHA;
-#   sub gjL gjMA by gjL_MA;
-#   sub gjL gjYA by gjL_YA;
-#   sub gjL gjLA by gjL_LA;
-#   sub gjL gjL gjYA by gjL_L_YA;
-#   # sub gjL gjV gjDDA by gjL_V_DDA; #!
-#   sub gjL gjV gjDA by gjL_V_DA; #!
-#   sub gjL gjSA by gjL_SA;
-#   sub gjL gjHA by gjL_HA;
-#   sub gjV gjNA by gjV_NA;
-#   sub gjV gjYA by gjV_YA;
-#   sub gjV gjLA by gjV_LA;
-#   sub gjV gjVA by gjV_VA;
-#   sub gjV gjHA by gjV_HA;
-#   sub gjSH gjCA by gjSH_CA;
-#   sub gjSH gjNA by gjSH_NA;
-#   sub gjSH gjVA by gjSH_VA;
-#   sub gjSS gjKA by gjSS_KA;
-#   sub gjSS gjK_RA by gjSS_K_RA;
-#   sub gjSS gjTTA by gjSS_TTA;
-#   sub gjSS gjTT_RA by gjSS_TT_RA;
-#   sub gjSS gjTTHA by gjSS_TTHA;
-#   sub gjSS gjTTH_RA by gjSS_TTH_RA;
-#   sub gjSS gjNNA by gjSS_NNA;
-#   sub gjSS gjNN gjYA by gjSS_NN_YA;
-#   sub gjSS gjPA by gjSS_PA;
-#   sub gjSS gjP_RA by gjSS_P_RA;
-#   sub gjSS gjPHA by gjSS_PHA;
-#   sub gjSS gjMA by gjSS_MA;
-#   sub gjSS gjM gjYA by gjSS_M_YA;
-#   sub gjSS gjYA by gjSS_YA;
-#   sub gjSS gjVA by gjSS_VA;
-#   sub gjSS gjSSA by gjSS_SSA;
-#   sub gjS gjKA by gjS_KA;
-#   sub gjS gjK_RA by gjS_K_RA;
-#   sub gjS gjK gjVA by gjS_K_VA;
-#   sub gjS gjKHA by gjS_KHA;
-#   sub gjS gjJA by gjS_JA;
-#   sub gjS gjTTA by gjS_TTA;
-#   sub gjS gjTT_RA by gjS_TT_RA;
-#   sub gjS gjT_RA by gjS_T_RA;
-#   sub gjS gjT_R by gjS_T_R;
-#   sub gjS gjTHA by gjS_THA;
-#   sub gjS gjTH gjYA by gjS_TH_YA;
-#   sub gjS gjDA by gjS_DA;
-#   sub gjS gjNA by gjS_NA;
-#   sub gjS gjPA by gjS_PA;
-#   sub gjS gjP_RA by gjS_P_RA;
-#   sub gjS gjPHA by gjS_PHA;
-#   sub gjS gjMA by gjS_MA;
-#   sub gjS gjM gjYA by gjS_M_YA;
-#   sub gjS gjYA by gjS_YA;
-#   sub gjS gjVA by gjS_VA;
-#   sub gjS gjSA by gjS_SA;
-#   sub gjLL gjYA by gjLL_YA;
-# } pres;
-#
-# lookup pres_new {
-#
-#   #! The following conjuncts are broken by mI because of Core Text's mI reordering bug.
-#
-#   sub gjC gjCH_VA by gjC_CH_VA;
-#
-#   sub gjN gjD_VA by gjN_D_VA;
-#
-#   sub gjSS gjTT_YA by gjSS_TT_YA;
-#   sub gjSS gjTT_VA by gjSS_TT_VA;
-#   sub gjSS gjTTH_YA by gjSS_TTH_YA;
-#
-# } pres_new;
-#
-# lookup pres_old {
-#
-#   # lookup cjct_new
-#
-#   # sub gjNG gjNGA by gjNG_NGA;
-#   # sub gjNG gjYA by gjNG_YA;
-#   # sub gjNG gjVA by gjNG_VA;
-#
-#   sub gjCH gjYA by gjCH_YA;
-#   sub gjCH gjVA by gjCH_VA;
-#
-#   sub gjTT gjTTA by gjTT_TTA;
-#   sub gjTT gjTTHA by gjTT_TTHA;
-#   sub gjTT gjYA by gjTT_YA;
-#   sub gjTT gjVA by gjTT_VA;
-#
-#   sub gjTTH gjTTHA by gjTTH_TTHA;
-#   sub gjTTH gjYA by gjTTH_YA;
-#   # sub gjTTH gjVA by gjTTH_VA;
-#
-#   sub gjDD gjDDA by gjDD_DDA;
-#   sub gjDD gjDDHA by gjDD_DDHA;
-#   sub gjDD gjYA by gjDD_YA;
-#   sub gjDD gjVA by gjDD_VA;
-#
-#   sub gjDDH gjDDHA by gjDDH_DDHA;
-#   sub gjDDH gjYA by gjDDH_YA;
-#   # sub gjDDH gjVA by gjDDH_VA;
-#
-#   # sub gjD gjGA by gjD_GA;
-#   # sub gjD gjG_RA by gjD_G_RA;
-#   sub gjD gjGHA by gjD_GHA;
-#   sub gjD gjDA by gjD_DA;
-#   sub gjD gjDHA by gjD_DHA;
-#   # sub gjD gjDH_YA by gjD_DH_YA;
-#   sub gjD gjNA by gjD_NA;
-#   # sub gjD gjBA by gjD_BA;
-#   # sub gjD gjB_RA by gjD_B_RA;
-#   sub gjD gjBHA by gjD_BHA;
-#   # sub gjD gjBH_YA by gjD_BH_YA;
-#   sub gjD gjMA by gjD_MA;
-#   sub gjD gjYA by gjD_YA;
-#   # sub gjD_R gjYA by gjD_R_YA;
-#   sub gjD gjVA by gjD_VA;
-#   # sub gjD gjV_YA by gjD_V_YA;
-#
-#   # sub gjH gjNNA by gjH_NNA;
-#   sub gjH gjNA by gjH_NA;
-#   sub gjH gjMA by gjH_MA;
-#   sub gjH gjYA by gjH_YA;
-#   # sub gjH gjLA by gjH_LA;
-#   sub gjH gjVA by gjH_VA;
-#
-#   # lookup pres_new
-#
-#   sub gjC gjCH gjVA by gjC_CH_VA;
-#
-#   sub gjN gjD gjVA by gjN_D_VA;
-#
-#   sub gjSS gjTT gjYA by gjSS_TT_YA;
-#   sub gjSS gjTT gjVA by gjSS_TT_VA;
-#   sub gjSS gjTTH gjYA by gjSS_TTH_YA;
-#
-# } pres_old;
-#
-# include (matra_i_matching.fea);
+lookup pres {
+  sub gjK gjKA by gjK_KA;
+  sub gjK gjKHA by gjK_KHA;
+  sub gjK gjCA by gjK_CA;
+  sub gjK gjJA by gjK_JA;
+  sub gjK gjTTA by gjK_TTA;
+  # sub gjK gjTTHA by gjK_TTHA; #!
+  sub gjK gjNNA by gjK_NNA;
+  sub gjK gjTA by gjK_TA;
+  sub gjK gjT gjYA by gjK_T_YA;
+  sub gjK gjT_RA by gjK_T_RA;
+  sub gjK gjT gjVA by gjK_T_VA;
+  sub gjK gjTHA by gjK_THA; #!
+  sub gjK gjDA by gjK_DA;
+  sub gjK gjNA by gjK_NA;
+  sub gjK gjPA by gjK_PA;
+  sub gjK gjP_RA by gjK_P_RA;
+  sub gjK gjPHA by gjK_PHA;
+  sub gjK gjMA by gjK_MA;
+  sub gjK gjYA by gjK_YA;
+  sub gjK gjLA by gjK_LA;
+  sub gjK gjVA by gjK_VA;
+  sub gjK gjV gjYA by gjK_V_YA;
+  sub gjK gjSHA by gjK_SHA;
+  sub gjK gjSS gjMA by gjK_SS_MA;
+  sub gjK gjSS gjM gjYA by gjK_SS_M_YA;
+  sub gjK gjSS gjYA by gjK_SS_YA;
+  sub gjK gjSS gjVA by gjK_SS_VA;
+  sub gjK gjSA by gjK_SA;
+  sub gjK gjS gjTTA by gjK_S_TTA;
+  sub gjK gjS gjDDA by gjK_S_DDA;
+  sub gjK gjS gjTA by gjK_S_TA;
+  sub gjK gjS gjP_RA by gjK_S_P_RA;
+  sub gjK gjS gjP gjLA by gjK_S_P_LA;
+  sub gjKH gjKHA by gjKH_KHA;
+  sub gjKH gjTA by gjKH_TA;
+  sub gjKH gjNA by gjKH_NA;
+  sub gjKH gjMA by gjKH_MA;
+  sub gjKH gjYA by gjKH_YA;
+  sub gjKH gjSHA by gjKH_SHA;
+  sub gjKH gjSA by gjKH_SA;
+  sub gjG gjNA by gjG_NA;
+  sub gjG_R gjYA by gjG_R_YA;
+  sub gjGH gjNA by gjGH_NA;
+  sub gjGH gjMA by gjGH_MA;
+  sub gjGH gjYA by gjGH_YA;
+  sub gjC gjCA by gjC_CA;
+  sub gjC gjCHA by gjC_CHA;
+  sub gjC gjNA by gjC_NA;
+  sub gjC gjMA by gjC_MA;
+  sub gjC gjYA by gjC_YA;
+  sub gjJ gjKA by gjJ_KA;
+  sub gjJ gjJA by gjJ_JA;
+  sub gjJ gjJ gjYA by gjJ_J_YA;
+  sub gjJ gjJ gjVA by gjJ_J_VA;
+  sub gjJ gjJHA by gjJ_JHA;
+  sub gjJ gjNY gjYA by gjJ_NY_YA;
+  sub gjJ gjTTA by gjJ_TTA;
+  sub gjJ gjDDA by gjJ_DDA;
+  sub gjJ gjTA by gjJ_TA;
+  sub gjJ gjDA by gjJ_DA;
+  sub gjJ gjNA by gjJ_NA;
+  sub gjJ gjMA by gjJ_MA;
+  sub gjJ gjYA by gjJ_YA;
+  sub gjNY gjJA by gjNY_JA;
+  sub gjT gjKA by gjT_KA;
+  sub gjT gjK gjYA by gjT_K_YA;
+  sub gjT gjK_RA by gjT_K_RA;
+  sub gjT gjK gjVA by gjT_K_VA;
+  sub gjT gjK gjSSA by gjT_K_SSA;
+  sub gjT gjKHA by gjT_KHA;
+  sub gjT gjKH gjNA by gjT_KH_NA;
+  sub gjT gjKH_RA by gjT_KH_RA;
+  sub gjT gjTA by gjT_TA;
+  sub gjT gjT by gjT_T;
+  sub gjT gjT gjYA by gjT_T_YA;
+  sub gjT gjT gjVA by gjT_T_VA;
+  sub gjT gjTHA by gjT_THA;
+  sub gjT gjNA by gjT_NA;
+  sub gjT gjN gjYA by gjT_N_YA;
+  sub gjT gjPA by gjT_PA;
+  sub gjT gjP_RA by gjT_P_RA;
+  sub gjT gjP gjLA by gjT_P_LA;
+  sub gjT gjPHA by gjT_PHA;
+  sub gjT gjMA by gjT_MA;
+  sub gjT gjM gjYA by gjT_M_YA;
+  sub gjT gjYA by gjT_YA;
+  sub gjT_R gjYA by gjT_R_YA;
+  sub gjT gjLA by gjT_LA;
+  sub gjT gjVA by gjT_VA;
+  sub gjT gjSA by gjT_SA;
+  sub gjT gjS gjNA by gjT_S_NA;
+  sub gjT gjS gjYA by gjT_S_YA;
+  sub gjT gjS gjVA by gjT_S_VA;
+  sub gjTH gjNA by gjTH_NA;
+  sub gjTH gjYA by gjTH_YA;
+  sub gjTH gjVA by gjTH_VA;
+  sub gjDH gjNA by gjDH_NA;
+  sub gjDH gjN gjYA by gjDH_N_YA;
+  sub gjDH gjMA by gjDH_MA;
+  sub gjDH gjYA by gjDH_YA;
+  sub gjDH gjVA by gjDH_VA;
+  sub gjN gjKA by gjN_KA;
+  sub gjN gjK gjSA by gjN_K_SA;
+  sub gjN gjCHA by gjN_CHA;
+  sub gjN gjJHA by gjN_JHA;
+  sub gjN gjTTA by gjN_TTA;
+  sub gjN gjDDA by gjN_DDA;
+  sub gjN gjTA by gjN_TA;
+  sub gjN gjT gjYA by gjN_T_YA;
+  sub gjN gjT_RA by gjN_T_RA;
+  sub gjN gjT gjSA by gjN_T_SA;
+  sub gjN gjTHA by gjN_THA;
+  sub gjN gjTH gjYA by gjN_TH_YA;
+  sub gjN gjTH gjVA by gjN_TH_VA;
+  sub gjN gjDA by gjN_DA;
+  sub gjN gjDHA by gjN_DHA;
+  sub gjN gjDH gjYA by gjN_DH_YA;
+  sub gjN gjDH_RA by gjN_DH_RA;
+  sub gjN gjDH gjVA by gjN_DH_VA;
+  sub gjN gjNA by gjN_NA;
+  sub gjN gjN gjYA by gjN_N_YA;
+  sub gjN gjPA by gjN_PA;
+  sub gjN gjP_RA by gjN_P_RA;
+  sub gjN gjPHA by gjN_PHA;
+  sub gjN gjBHA by gjN_BHA;
+  sub gjN gjBH gjVA by gjN_BH_VA;
+  sub gjN gjMA by gjN_MA;
+  sub gjN gjM gjYA by gjN_M_YA;
+  sub gjN gjYA by gjN_YA;
+  sub gjN gjSA by gjN_SA;
+  sub gjN gjS gjTTA by gjN_S_TTA;
+  sub gjN gjS gjM gjYA by gjN_S_M_YA;
+  sub gjN gjS gjYA by gjN_S_YA;
+  sub gjP gjTTA by gjP_TTA;
+  sub gjP gjTTHA by gjP_TTHA;
+  sub gjP gjTA by gjP_TA;
+  sub gjP gjNA by gjP_NA;
+  sub gjP gjPA by gjP_PA;
+  sub gjP gjPHA by gjP_PHA;
+  sub gjP gjMA by gjP_MA;
+  sub gjP gjYA by gjP_YA;
+  sub gjP gjLA by gjP_LA;
+  sub gjP gjVA by gjP_VA;
+  sub gjPH gjJA by gjPH_JA;
+  sub gjPH gjTTA by gjPH_TTA;
+  sub gjPH gjTA by gjPH_TA;
+  sub gjPH gjNA by gjPH_NA;
+  sub gjPH gjPA by gjPH_PA;
+  sub gjPH gjPHA by gjPH_PHA;
+  sub gjPH gjYA by gjPH_YA;
+  sub gjPH gjSHA by gjPH_SHA;
+  sub gjPH gjSA by gjPH_SA;
+  sub gjB gjJA by gjB_JA;
+  sub gjB gjJ gjYA by gjB_J_YA;
+  sub gjB gjJHA by gjB_JHA;
+  sub gjB gjDA by gjB_DA;
+  sub gjB gjDHA by gjB_DHA;
+  sub gjB gjDH gjVA by gjB_DH_VA;
+  sub gjB gjNA by gjB_NA;
+  sub gjB gjBA by gjB_BA;
+  sub gjB gjYA by gjB_YA;
+  sub gjB gjSHA by gjB_SHA;
+  sub gjB gjSA by gjB_SA;
+  sub gjBH gjNA by gjBH_NA;
+  sub gjBH gjYA by gjBH_YA;
+  sub gjBH gjLA by gjBH_LA;
+  sub gjBH gjVA by gjBH_VA;
+  sub gjM gjDA by gjM_DA;
+  sub gjM gjNA by gjM_NA;
+  sub gjM gjPA by gjM_PA;
+  sub gjM gjP_RA by gjM_P_RA;
+  sub gjM gjBA by gjM_BA;
+  sub gjM gjB gjYA by gjM_B_YA;
+  sub gjM gjB_RA by gjM_B_RA;
+  sub gjM gjBHA by gjM_BHA;
+  sub gjM gjMA by gjM_MA;
+  sub gjM gjYA by gjM_YA;
+  sub gjM_R gjMA by gjM_R_MA;
+  sub gjM gjVA by gjM_VA;
+  sub gjM gjSHA by gjM_SHA;
+  sub gjM gjSA by gjM_SA;
+  sub gjY gjNA by gjY_NA;
+  sub gjY gjYA by gjY_YA;
+  sub gjL gjKA by gjL_KA;
+  sub gjL gjK gjYA by gjL_K_YA;
+  sub gjL gjKHA by gjL_KHA;
+  sub gjL gjGA by gjL_GA;
+  sub gjL gjJA by gjL_JA;
+  sub gjL gjTTA by gjL_TTA;
+  sub gjL gjTTHA by gjL_TTHA;
+  sub gjL gjDDA by gjL_DDA;
+  sub gjL gjDDHA by gjL_DDHA;
+  sub gjL gjTA by gjL_TA;
+  sub gjL gjTHA by gjL_THA;
+  sub gjL gjTH gjYA by gjL_TH_YA;
+  sub gjL gjDA by gjL_DA;
+  sub gjL gjD_RA by gjL_D_RA;
+  sub gjL gjPA by gjL_PA;
+  sub gjL gjPHA by gjL_PHA;
+  sub gjL gjBHA by gjL_BHA;
+  sub gjL gjMA by gjL_MA;
+  sub gjL gjYA by gjL_YA;
+  sub gjL gjLA by gjL_LA;
+  sub gjL gjL gjYA by gjL_L_YA;
+  # sub gjL gjV gjDDA by gjL_V_DDA; #!
+  sub gjL gjV gjDA by gjL_V_DA; #!
+  sub gjL gjSA by gjL_SA;
+  sub gjL gjHA by gjL_HA;
+  sub gjV gjNA by gjV_NA;
+  sub gjV gjYA by gjV_YA;
+  sub gjV gjLA by gjV_LA;
+  sub gjV gjVA by gjV_VA;
+  sub gjV gjHA by gjV_HA;
+  sub gjSH gjCA by gjSH_CA;
+  sub gjSH gjNA by gjSH_NA;
+  sub gjSH gjVA by gjSH_VA;
+  sub gjSS gjKA by gjSS_KA;
+  sub gjSS gjK_RA by gjSS_K_RA;
+  sub gjSS gjTTA by gjSS_TTA;
+  sub gjSS gjTT_RA by gjSS_TT_RA;
+  sub gjSS gjTTHA by gjSS_TTHA;
+  sub gjSS gjTTH_RA by gjSS_TTH_RA;
+  sub gjSS gjNNA by gjSS_NNA;
+  sub gjSS gjNN gjYA by gjSS_NN_YA;
+  sub gjSS gjPA by gjSS_PA;
+  sub gjSS gjP_RA by gjSS_P_RA;
+  sub gjSS gjPHA by gjSS_PHA;
+  sub gjSS gjMA by gjSS_MA;
+  sub gjSS gjM gjYA by gjSS_M_YA;
+  sub gjSS gjYA by gjSS_YA;
+  sub gjSS gjVA by gjSS_VA;
+  sub gjSS gjSSA by gjSS_SSA;
+  sub gjS gjKA by gjS_KA;
+  sub gjS gjK_RA by gjS_K_RA;
+  sub gjS gjK gjVA by gjS_K_VA;
+  sub gjS gjKHA by gjS_KHA;
+  sub gjS gjJA by gjS_JA;
+  sub gjS gjTTA by gjS_TTA;
+  sub gjS gjTT_RA by gjS_TT_RA;
+  sub gjS gjT_RA by gjS_T_RA;
+  sub gjS gjT_R by gjS_T_R;
+  sub gjS gjTHA by gjS_THA;
+  sub gjS gjTH gjYA by gjS_TH_YA;
+  sub gjS gjDA by gjS_DA;
+  sub gjS gjNA by gjS_NA;
+  sub gjS gjPA by gjS_PA;
+  sub gjS gjP_RA by gjS_P_RA;
+  sub gjS gjPHA by gjS_PHA;
+  sub gjS gjMA by gjS_MA;
+  sub gjS gjM gjYA by gjS_M_YA;
+  sub gjS gjYA by gjS_YA;
+  sub gjS gjVA by gjS_VA;
+  sub gjS gjSA by gjS_SA;
+  sub gjLL gjYA by gjLL_YA;
+} pres;
+
+lookup pres_new {
+
+  #! The following conjuncts are broken by mI because of Core Text's mI reordering bug.
+
+  sub gjC gjCH_VA by gjC_CH_VA;
+
+  sub gjN gjD_VA by gjN_D_VA;
+
+  sub gjSS gjTT_YA by gjSS_TT_YA;
+  sub gjSS gjTT_VA by gjSS_TT_VA;
+  sub gjSS gjTTH_YA by gjSS_TTH_YA;
+
+} pres_new;
+
+lookup pres_old {
+
+  # lookup cjct_new
+
+  # sub gjNG gjNGA by gjNG_NGA;
+  # sub gjNG gjYA by gjNG_YA;
+  # sub gjNG gjVA by gjNG_VA;
+
+  sub gjCH gjYA by gjCH_YA;
+  sub gjCH gjVA by gjCH_VA;
+
+  sub gjTT gjTTA by gjTT_TTA;
+  sub gjTT gjTTHA by gjTT_TTHA;
+  sub gjTT gjYA by gjTT_YA;
+  sub gjTT gjVA by gjTT_VA;
+
+  sub gjTTH gjTTHA by gjTTH_TTHA;
+  sub gjTTH gjYA by gjTTH_YA;
+  # sub gjTTH gjVA by gjTTH_VA;
+
+  sub gjDD gjDDA by gjDD_DDA;
+  sub gjDD gjDDHA by gjDD_DDHA;
+  sub gjDD gjYA by gjDD_YA;
+  sub gjDD gjVA by gjDD_VA;
+
+  sub gjDDH gjDDHA by gjDDH_DDHA;
+  sub gjDDH gjYA by gjDDH_YA;
+  # sub gjDDH gjVA by gjDDH_VA;
+
+  # sub gjD gjGA by gjD_GA;
+  # sub gjD gjG_RA by gjD_G_RA;
+  sub gjD gjGHA by gjD_GHA;
+  sub gjD gjDA by gjD_DA;
+  sub gjD gjDHA by gjD_DHA;
+  # sub gjD gjDH_YA by gjD_DH_YA;
+  sub gjD gjNA by gjD_NA;
+  # sub gjD gjBA by gjD_BA;
+  # sub gjD gjB_RA by gjD_B_RA;
+  sub gjD gjBHA by gjD_BHA;
+  # sub gjD gjBH_YA by gjD_BH_YA;
+  sub gjD gjMA by gjD_MA;
+  sub gjD gjYA by gjD_YA;
+  # sub gjD_R gjYA by gjD_R_YA;
+  sub gjD gjVA by gjD_VA;
+  # sub gjD gjV_YA by gjD_V_YA;
+
+  # sub gjH gjNNA by gjH_NNA;
+  sub gjH gjNA by gjH_NA;
+  sub gjH gjMA by gjH_MA;
+  sub gjH gjYA by gjH_YA;
+  # sub gjH gjLA by gjH_LA;
+  sub gjH gjVA by gjH_VA;
+
+  # lookup pres_new
+
+  sub gjC gjCH gjVA by gjC_CH_VA;
+
+  sub gjN gjD gjVA by gjN_D_VA;
+
+  sub gjSS gjTT gjYA by gjSS_TT_YA;
+  sub gjSS gjTT gjVA by gjSS_TT_VA;
+  sub gjSS gjTTH gjYA by gjSS_TTH_YA;
+
+} pres_old;
+
+include (matra_i_matching.fea);
 
 
 # Above-base Substitution
@@ -745,48 +745,48 @@ lookup abvs {
   # sub gjmEcandra gjReph gjAnusvara by gjmEcandra_Reph_Anusvara;
   # sub gjmOcandra gjReph gjAnusvara by gjmOcandra_Reph_Anusvara;
 
-# } abvs;
-#
-# @matra_i_marks = [
-#   gjReph
-#   gjAnusvara
-#   gjReph_Anusvara
-# ];
-#
-# @matra_i_marks_alt = [
-#   gjReph.matrai
-#   gjAnusvara.matrai
-#   gjReph_Anusvara.matrai
-# ];
-#
-# lookup abvs_marks_for_matra_i {
-#   sub
-#     @generated_MATRA_I_ALTS
-#     @generated_BASES_FOR_MATRA_I
-#     @matra_i_marks'
-#     by
-#     @matra_i_marks_alt;
-# } abvs_marks_for_matra_i;
+} abvs;
+
+@matra_i_marks = [
+  gjReph
+  gjAnusvara
+  gjReph_Anusvara
+];
+
+@matra_i_marks_alt = [
+  gjReph.matrai
+  gjAnusvara.matrai
+  gjReph_Anusvara.matrai
+];
+
+lookup abvs_marks_for_matra_i {
+  sub
+    @generated_MATRA_I_ALTS
+    @generated_BASES_FOR_MATRA_I
+    @matra_i_marks'
+    by
+    @matra_i_marks_alt;
+} abvs_marks_for_matra_i;
 
 
 # Below-base Substitution
 # -----------------------
 
-# lookup blws {
-#   sub gjRA  gjmU  by gjRA_mU;
-#   sub gjRA  gjmUU by gjRA_mUU;
-#   sub gjDA  gjmvR by gjDA_mvR;
-#   sub gjSHA gjmvR by gjSHA_mvR;
-#   sub gjHA  gjmvR by gjHA_mvR;
-# } blws;
+lookup blws {
+  sub gjRA  gjmU  by gjRA_mU;
+  sub gjRA  gjmUU by gjRA_mUU;
+  sub gjDA  gjmvR by gjDA_mvR;
+  sub gjSHA gjmvR by gjSHA_mvR;
+  sub gjHA  gjmvR by gjHA_mvR;
+} blws;
 
 
 # Post-base Substitution
 # ----------------------
-# 
-# lookup psts {
-#   sub gjJA   gjmAA by gjJA_mAA;
-#   sub gjJ_RA gjmAA by gjJ_RA_mAA;
-#   sub gjJA   gjmII by gjJA_mII;
-#   sub gjJ_RA gjmII by gjJ_RA_mII;
-# } psts;
+
+lookup psts {
+  sub gjJA   gjmAA by gjJA_mAA;
+  sub gjJ_RA gjmAA by gjJ_RA_mAA;
+  sub gjJA   gjmII by gjJA_mII;
+  sub gjJ_RA gjmII by gjJ_RA_mII;
+} psts;

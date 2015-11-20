@@ -1,4 +1,4 @@
-![Screenshot of a test](https://github.com/jonpinhorn/shrikhand/blob/master/development/reference/Istagram/gjSA_300.jpg)</a>
+![Screenshot of a test](https://github.com/jonpinhorn/shrikhand/blob/gh-pages/images/SG_1200.jpg)</a>
 
 Shrikhand Gujarati + Latin | Google Web Fonts Development
 

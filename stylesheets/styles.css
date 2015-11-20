@@ -1,0 +1,127 @@
+@import url(http://fonts.googleapis.com/css?family=Fira+Mono:400,700);
+
+@font-face {
+  font-family: "ShrikhandGujarati";
+<<<<<<< HEAD
+<<<<<<< HEAD
+  src: url("stylesheets/type/ShrikhandGujarati-Regular.eot");
+  src: local("☺"),
+    url("stylesheets/type/ShrikhandGujarati-Regular.woff2") format("woff2"),
+    url("stylesheets/type/ShrikhandGujarati-Regular.woff") format("woff"),
+    url("stylesheets/type/ShrikhandGujarati-Regular.otf") format("opentype");
+=======
+=======
+>>>>>>> jonpinhorn/gh-pages
+  src: url("type/ShrikhandGujarati-Regular.eot");
+  src: local("☺"),
+    url("type/ShrikhandGujarati-Regular.woff2") format("woff2"),
+    url("type/ShrikhandGujarati-Regular.woff") format("woff"),
+    url("type/ShrikhandGujarati-Regular.otf") format("opentype");
+<<<<<<< HEAD
+>>>>>>> jonpinhorn/gh-pages
+=======
+>>>>>>> jonpinhorn/gh-pages
+}
+
+a:link, a:visited, a:hover, a:active {
+  text-decoration: none;
+  color: inherit;
+}
+
+/*p {
+  font-family: Fira Mono, sans-serif;
+  font-size: 10;
+}*/
+
+.header {
+  font-family: "ShrikhandGujarati";
+  color: #CC0052;
+  font-size: 50px;
+  text-align: center;
+}
+
+.header .container {
+  height: 50px;
+  width: 90%;
+  margin: auto;
+}
+
+/*.nav p {
+  font-family: 'Fira Mono';
+  color: grey;
+  font-size: 10px;
+}*/
+
+.nav {
+  font-family: 'Fira Mono';
+  color: grey;
+  font-size: 12px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  padding-left: 50px;
+  padding-right: 50px;
+  text-align: center;
+  }
+
+.nav .container {
+  width: 90%;
+  margin: auto;
+}
+
+/*.body p {
+  font-family: 'Fira Mono';
+  font-size: 10px;
+}*/
+
+.body {
+  font-family: 'Fira Mono';
+  font-size: 12px;
+}
+
+.body .container {
+  width: 40%;
+  margin: auto;
+}
+
+.testing {
+  width: 90%;
+  margin: auto;
+}
+
+.testing70 {
+  font-family: "ShrikhandGujarati";
+  font-size: 70px;
+  line-height: 80%;
+}
+
+.testing30 {
+  font-family: "ShrikhandGujarati";
+  font-size: 30px;
+  line-height: 135%;
+}
+
+.annotation {
+  font-family: 'Fira Mono';
+  font-size: 10px;
+}
+
+.section {
+    width: 80%;
+    height: 200px;
+    background: aqua;
+    margin: auto;
+    padding: 10px;
+}
+.paraleft {
+    background-color: yellow;
+    width: 50%;
+    margin-right: 10px;
+    background: red;
+    float: left;
+}
+.pararight {
+    background-color: green;
+    margin-left: 50%;
+    /*height: 200px;*/
+    background: green;
+}

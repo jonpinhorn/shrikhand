@@ -1,4 +1,9 @@
+<<<<<<< HEAD
+# Shrikhand (શ્રીખંડ)
+
+=======
 # shrikhand
+>>>>>>> gh-pages
 Shrikhand Gujarati + Latin | Google Web Fonts Development
 
 A big, bold, and unapologetic display type that evolved from discussions with

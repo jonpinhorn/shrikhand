@@ -1,4 +1,4 @@
-![Shrikhand Banner](https://github.com/jonpinhorn/shrikhand/blob/gh-pages/images/SG_1200.jpg)</a>
+![Shrikhand Banner](https://cloud.githubusercontent.com/assets/8477580/11318394/8113a1dc-9048-11e5-97dd-a0582a9504fc.jpg)</a>
 
 Shrikhand Gujarati + Latin | Google Web Fonts Development
 

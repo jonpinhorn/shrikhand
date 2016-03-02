@@ -1,4 +1,3 @@
-<<<<<<< Local Changes
 <!-- ![Shrikhand Banner](https://cloud.githubusercontent.com/assets/8477580/11535580/61f99122-990c-11e5-962e-805686486ee9.png)</a>
 =======
 # Shrikhand (શ્રીખંડ)
@@ -19,8 +18,7 @@ contextual alternates to add flair and spontaneity. -->
 
 Commissioned by Google Fonts in June 2015, Shrikhand is fully support both the Gujarati and Latin writing systems and is freely available under a open source license. All development work, and the project as a whole, is accessible on GitHub, here.
 
-As with all of my type design projects Shrikhand will be fully Unicode compliant and supported by opentype technology.</p>=======
+As with all of my type design projects Shrikhand will be fully Unicode compliant and supported by opentype technology.</p>
 contextual alternates to add flair and spontaneity.
 
 <a href="http://jonpinhorn.github.io/shrikhand/">[Testing documents]<a>
->>>>>>> External Changes

@@ -1,7 +1,7 @@
 #! /usr/bin/env python
 
 import hindkit as kit
-kit.confirm_version('0.3.1')
+kit.confirm_version('0.3.2')
 
 # - - -
 
@@ -22,8 +22,6 @@ family.set_masters(
 )
 
 family.set_styles([('Regular', 0, 400)])
-
-family.styles[0]._output_full_name_postscript = family.output_name_postscript
 
 # - - -
 

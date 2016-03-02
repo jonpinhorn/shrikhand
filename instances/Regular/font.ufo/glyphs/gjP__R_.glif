@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gjP_R" format="1">
+  <advance width="387"/>
+  <outline>
+    <contour>
+      <point x="490" y="340" type="curve" smooth="yes"/>
+      <point x="466" y="340"/>
+      <point x="446" y="267"/>
+      <point x="384" y="267" type="curve" smooth="yes"/>
+      <point x="355" y="267"/>
+      <point x="345" y="282"/>
+      <point x="345" y="303" type="curve" smooth="yes"/>
+      <point x="345" y="313"/>
+      <point x="348" y="325"/>
+      <point x="352" y="336" type="curve" smooth="yes"/>
+      <point x="377" y="402" type="line" smooth="yes"/>
+      <point x="389" y="433"/>
+      <point x="398" y="462"/>
+      <point x="398" y="497" type="curve" smooth="yes"/>
+      <point x="398" y="574"/>
+      <point x="347" y="633"/>
+      <point x="242" y="633" type="curve" smooth="yes"/>
+      <point x="123" y="633"/>
+      <point x="63" y="559"/>
+      <point x="63" y="496" type="curve" smooth="yes"/>
+      <point x="63" y="481"/>
+      <point x="67" y="468"/>
+      <point x="74" y="468" type="curve" smooth="yes"/>
+      <point x="84" y="468"/>
+      <point x="90" y="493"/>
+      <point x="113" y="493" type="curve" smooth="yes"/>
+      <point x="122" y="493"/>
+      <point x="126" y="487"/>
+      <point x="126" y="474" type="curve" smooth="yes"/>
+      <point x="126" y="471"/>
+      <point x="125" y="466"/>
+      <point x="124" y="462" type="curve"/>
+      <point x="108" y="410" type="line" smooth="yes"/>
+      <point x="98" y="377"/>
+      <point x="87" y="343"/>
+      <point x="87" y="311" type="curve" smooth="yes"/>
+      <point x="87" y="223"/>
+      <point x="141" y="166"/>
+      <point x="257" y="166" type="curve" smooth="yes"/>
+      <point x="301" y="166"/>
+      <point x="343" y="175"/>
+      <point x="377" y="189" type="curve"/>
+      <point x="327" y="133"/>
+      <point x="259" y="102"/>
+      <point x="188" y="102" type="curve" smooth="yes"/>
+      <point x="131" y="102"/>
+      <point x="119" y="133"/>
+      <point x="99" y="133" type="curve" smooth="yes"/>
+      <point x="82" y="133"/>
+      <point x="61" y="110"/>
+      <point x="52" y="81" type="curve" smooth="yes"/>
+      <point x="29" y="6"/>
+      <point x="72" y="-82"/>
+      <point x="180" y="-82" type="curve" smooth="yes"/>
+      <point x="313" y="-82"/>
+      <point x="436" y="65"/>
+      <point x="494" y="245" type="curve" smooth="yes"/>
+      <point x="511" y="298"/>
+      <point x="509" y="340"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-03-01 17:14:41 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>gjPA</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>72.287</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>547</integer>
+          <key>y</key>
+          <integer>411</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>pa_ra-gujarati</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>gjP_R</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>387</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

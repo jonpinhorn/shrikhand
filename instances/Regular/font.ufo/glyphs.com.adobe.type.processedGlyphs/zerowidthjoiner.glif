@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zerowidthjoiner" format="2">
+  <unicode hex="200D"/>
+  <outline>
+    <contour>
+      <point x="133" y="570" type="line"/>
+      <point x="29" y="665" type="line"/>
+      <point x="133" y="761" type="line"/>
+      <point x="93" y="799" type="line"/>
+      <point x="-7" y="700" type="line"/>
+      <point x="-108" y="799" type="line"/>
+      <point x="-149" y="761" type="line"/>
+      <point x="-45" y="665" type="line"/>
+      <point x="-149" y="570" type="line"/>
+      <point x="-107" y="531" type="line"/>
+      <point x="-33" y="604" type="line"/>
+      <point x="-33" y="-346" type="line"/>
+      <point x="18" y="-346" type="line"/>
+      <point x="18" y="605" type="line"/>
+      <point x="92" y="531" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="perthousand" format="1">
+  <advance width="1877"/>
+  <unicode hex="2030"/>
+  <outline>
+    <component base="percent"/>
+    <component base="zero.superior" xOffset="1221" yOffset="-273"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-10-02 09:50:23 +0000</string>
+    </dict>
+  </lib>
+</glyph>

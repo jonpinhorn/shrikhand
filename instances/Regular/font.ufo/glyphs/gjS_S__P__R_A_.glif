@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gjSS_P_RA" format="1">
+  <advance width="1165"/>
+  <outline>
+    <contour>
+      <point x="478" y="239" type="curve" smooth="yes"/>
+      <point x="506" y="265"/>
+      <point x="506" y="289"/>
+      <point x="493" y="318" type="curve" smooth="yes"/>
+      <point x="398" y="527" type="line" smooth="yes"/>
+      <point x="367" y="596"/>
+      <point x="317" y="633"/>
+      <point x="242" y="633" type="curve" smooth="yes"/>
+      <point x="123" y="633"/>
+      <point x="63" y="559"/>
+      <point x="63" y="496" type="curve" smooth="yes"/>
+      <point x="63" y="481"/>
+      <point x="67" y="468"/>
+      <point x="74" y="468" type="curve" smooth="yes"/>
+      <point x="84" y="468"/>
+      <point x="90" y="493"/>
+      <point x="113" y="493" type="curve" smooth="yes"/>
+      <point x="122" y="493"/>
+      <point x="126" y="487"/>
+      <point x="126" y="474" type="curve" smooth="yes"/>
+      <point x="126" y="471"/>
+      <point x="125" y="466"/>
+      <point x="124" y="462" type="curve"/>
+      <point x="96" y="373" type="line" smooth="yes"/>
+      <point x="85" y="340"/>
+      <point x="75" y="306"/>
+      <point x="75" y="274" type="curve" smooth="yes"/>
+      <point x="75" y="186"/>
+      <point x="129" y="125"/>
+      <point x="245" y="125" type="curve" smooth="yes"/>
+      <point x="335" y="125"/>
+      <point x="411" y="172"/>
+    </contour>
+    <contour>
+      <point x="345" y="303" type="curve" smooth="yes"/>
+      <point x="345" y="313"/>
+      <point x="348" y="324"/>
+      <point x="352" y="336" type="curve" smooth="yes"/>
+      <point x="380" y="411" type="line"/>
+      <point x="432" y="293" type="line"/>
+      <point x="421" y="277"/>
+      <point x="404" y="267"/>
+      <point x="386" y="267" type="curve" smooth="yes"/>
+      <point x="357" y="267"/>
+      <point x="345" y="282"/>
+    </contour>
+    <contour>
+      <point x="734" y="211" type="line"/>
+      <point x="704" y="147"/>
+      <point x="652" y="102"/>
+      <point x="587" y="102" type="curve" smooth="yes"/>
+      <point x="526" y="102"/>
+      <point x="521" y="133"/>
+      <point x="501" y="133" type="curve" smooth="yes"/>
+      <point x="484" y="133"/>
+      <point x="460" y="110"/>
+      <point x="451" y="81" type="curve" smooth="yes"/>
+      <point x="428" y="6"/>
+      <point x="471" y="-82"/>
+      <point x="579" y="-82" type="curve" smooth="yes"/>
+      <point x="672" y="-82"/>
+      <point x="758" y="-20"/>
+      <point x="837" y="249" type="curve"/>
+    </contour>
+    <contour>
+      <point x="462" y="496" type="curve" smooth="yes"/>
+      <point x="462" y="481"/>
+      <point x="466" y="468"/>
+      <point x="473" y="468" type="curve" smooth="yes"/>
+      <point x="483" y="468"/>
+      <point x="489" y="493"/>
+      <point x="512" y="493" type="curve" smooth="yes"/>
+      <point x="521" y="493"/>
+      <point x="525" y="487"/>
+      <point x="525" y="474" type="curve" smooth="yes"/>
+      <point x="525" y="471"/>
+      <point x="524" y="466"/>
+      <point x="523" y="462" type="curve" smooth="yes"/>
+      <point x="507" y="410" type="line" smooth="yes"/>
+      <point x="497" y="377"/>
+      <point x="486" y="343"/>
+      <point x="486" y="311" type="curve" smooth="yes"/>
+      <point x="486" y="223"/>
+      <point x="540" y="166"/>
+      <point x="656" y="166" type="curve" smooth="yes"/>
+      <point x="748" y="166"/>
+      <point x="838" y="221"/>
+      <point x="876" y="280" type="curve"/>
+      <point x="864" y="349" type="line"/>
+      <point x="847" y="298"/>
+      <point x="812" y="267"/>
+      <point x="783" y="267" type="curve" smooth="yes"/>
+      <point x="754" y="267"/>
+      <point x="744" y="282"/>
+      <point x="744" y="303" type="curve" smooth="yes"/>
+      <point x="744" y="313"/>
+      <point x="747" y="325"/>
+      <point x="751" y="336" type="curve" smooth="yes"/>
+      <point x="776" y="402" type="line" smooth="yes"/>
+      <point x="788" y="433"/>
+      <point x="797" y="462"/>
+      <point x="797" y="497" type="curve" smooth="yes"/>
+      <point x="797" y="574"/>
+      <point x="746" y="633"/>
+      <point x="641" y="633" type="curve" smooth="yes"/>
+      <point x="522" y="633"/>
+      <point x="462" y="559"/>
+    </contour>
+    <contour>
+      <point x="924" y="542" type="curve" smooth="yes"/>
+      <point x="842" y="279" type="line" smooth="yes"/>
+      <point x="820" y="213"/>
+      <point x="811" y="172"/>
+      <point x="811" y="137" type="curve" smooth="yes"/>
+      <point x="811" y="63"/>
+      <point x="855" y="-3"/>
+      <point x="972" y="-3" type="curve" smooth="yes"/>
+      <point x="1075" y="-3"/>
+      <point x="1145" y="73"/>
+      <point x="1145" y="136" type="curve" smooth="yes"/>
+      <point x="1145" y="149"/>
+      <point x="1141" y="163"/>
+      <point x="1131" y="163" type="curve" smooth="yes"/>
+      <point x="1123" y="163"/>
+      <point x="1117" y="138"/>
+      <point x="1096" y="138" type="curve" smooth="yes"/>
+      <point x="1081" y="138"/>
+      <point x="1075" y="150"/>
+      <point x="1081" y="169" type="curve" smooth="yes"/>
+      <point x="1195" y="542" type="line" smooth="yes"/>
+      <point x="1199" y="555"/>
+      <point x="1202" y="566"/>
+      <point x="1202" y="575" type="curve" smooth="yes"/>
+      <point x="1202" y="599"/>
+      <point x="1192" y="624"/>
+      <point x="1126" y="624" type="curve" smooth="yes"/>
+      <point x="1052" y="624"/>
+      <point x="944" y="599"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-03-01 17:13:19 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>gjSSA</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>gjPA</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>gjSS_PA</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>gjSS_P_RA</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1165</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

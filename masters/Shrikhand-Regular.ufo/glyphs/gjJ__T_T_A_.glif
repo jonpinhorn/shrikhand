@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gjJ_TTA" format="1">
+  <advance width="1106"/>
+  <outline>
+    <contour>
+      <point x="771" y="0" type="move" name="blwm"/>
+    </contour>
+    <contour>
+      <point x="949" y="615" type="move" name="abvm"/>
+    </contour>
+    <contour>
+      <point x="408" y="347" type="line"/>
+      <point x="341" y="588"/>
+      <point x="259" y="633"/>
+      <point x="185" y="633" type="curve" smooth="yes"/>
+      <point x="116" y="633"/>
+      <point x="65" y="584"/>
+      <point x="65" y="505" type="curve" smooth="yes"/>
+      <point x="65" y="410"/>
+      <point x="137" y="352"/>
+      <point x="204" y="352" type="curve" smooth="yes"/>
+      <point x="219" y="352"/>
+      <point x="225" y="359"/>
+      <point x="225" y="367" type="curve" smooth="yes"/>
+      <point x="225" y="380"/>
+      <point x="212" y="386"/>
+      <point x="212" y="409" type="curve" smooth="yes"/>
+      <point x="212" y="425"/>
+      <point x="222" y="441"/>
+      <point x="244" y="441" type="curve" smooth="yes"/>
+      <point x="269" y="441"/>
+      <point x="295" y="412"/>
+      <point x="339" y="338" type="curve"/>
+    </contour>
+    <contour>
+      <point x="382" y="148" type="curve" smooth="yes"/>
+      <point x="356" y="148"/>
+      <point x="342" y="174"/>
+      <point x="352" y="209" type="curve" smooth="yes"/>
+      <point x="359" y="231"/>
+      <point x="372" y="247"/>
+      <point x="387" y="257" type="curve"/>
+      <point x="399" y="241" type="line" smooth="yes"/>
+      <point x="414" y="221"/>
+      <point x="419" y="195"/>
+      <point x="415" y="176" type="curve" smooth="yes"/>
+      <point x="411" y="158"/>
+      <point x="399" y="148"/>
+    </contour>
+    <contour>
+      <point x="899" y="208" type="curve" smooth="yes"/>
+      <point x="847" y="208"/>
+      <point x="821" y="222"/>
+      <point x="821" y="258" type="curve" smooth="yes"/>
+      <point x="821" y="344"/>
+      <point x="1115" y="333"/>
+      <point x="1115" y="506" type="curve" smooth="yes"/>
+      <point x="1115" y="578"/>
+      <point x="1049" y="633"/>
+      <point x="949" y="633" type="curve" smooth="yes"/>
+      <point x="873" y="633"/>
+      <point x="815" y="604"/>
+      <point x="782" y="556" type="curve"/>
+      <point x="758" y="574"/>
+      <point x="725" y="586"/>
+      <point x="687" y="586" type="curve" smooth="yes"/>
+      <point x="643" y="586"/>
+      <point x="598" y="568"/>
+      <point x="546" y="530" type="curve" smooth="yes"/>
+      <point x="337" y="378" type="line" smooth="yes"/>
+      <point x="240" y="308"/>
+      <point x="195" y="269"/>
+      <point x="181" y="216" type="curve" smooth="yes"/>
+      <point x="152" y="107"/>
+      <point x="240" y="-4"/>
+      <point x="369" y="-4" type="curve" smooth="yes"/>
+      <point x="455" y="-4"/>
+      <point x="511" y="38"/>
+      <point x="528" y="105" type="curve" smooth="yes"/>
+      <point x="551" y="195"/>
+      <point x="500" y="261"/>
+      <point x="446" y="289" type="curve"/>
+      <point x="789" y="438" type="line" smooth="yes"/>
+      <point x="817" y="450"/>
+      <point x="836" y="456"/>
+      <point x="851" y="456" type="curve" smooth="yes"/>
+      <point x="870" y="456"/>
+      <point x="882" y="444"/>
+      <point x="882" y="427" type="curve" smooth="yes"/>
+      <point x="882" y="348"/>
+      <point x="580" y="356"/>
+      <point x="580" y="158" type="curve" smooth="yes"/>
+      <point x="580" y="59"/>
+      <point x="675" y="-3"/>
+      <point x="815" y="-3" type="curve" smooth="yes"/>
+      <point x="992" y="-3"/>
+      <point x="1089" y="109"/>
+      <point x="1089" y="239" type="curve" smooth="yes"/>
+      <point x="1089" y="276"/>
+      <point x="1079" y="295"/>
+      <point x="1065" y="295" type="curve" smooth="yes"/>
+      <point x="1037" y="295"/>
+      <point x="1001" y="208"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-10-19 12:19:31 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>gjJA</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>gjTTA</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>gjJ</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+            <dict>
+              <key>baseGlyph</key>
+              <string>gjTTA</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>560</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>gjJ_TTA</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1106</integer>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gjLLA" format="1">
+  <advance width="956"/>
+  <unicode hex="0AB3"/>
+  <outline>
+    <contour>
+      <point x="695" y="0" type="move" name="blwm"/>
+    </contour>
+    <contour>
+      <point x="764" y="615" type="move" name="abvm"/>
+    </contour>
+    <contour>
+      <point x="52" y="353" type="curve" smooth="yes"/>
+      <point x="52" y="200"/>
+      <point x="165" y="125"/>
+      <point x="289" y="125" type="curve" smooth="yes"/>
+      <point x="396" y="125"/>
+      <point x="458" y="174"/>
+      <point x="506" y="275" type="curve" smooth="yes"/>
+      <point x="571" y="415" type="line" smooth="yes"/>
+      <point x="597" y="466"/>
+      <point x="615" y="476"/>
+      <point x="639" y="476" type="curve" smooth="yes"/>
+      <point x="670" y="476"/>
+      <point x="690" y="451"/>
+      <point x="669" y="390" type="curve" smooth="yes"/>
+      <point x="632" y="279" type="line" smooth="yes"/>
+      <point x="610" y="212"/>
+      <point x="602" y="172"/>
+      <point x="602" y="137" type="curve" smooth="yes"/>
+      <point x="602" y="63"/>
+      <point x="646" y="-3"/>
+      <point x="764" y="-3" type="curve" smooth="yes"/>
+      <point x="868" y="-3"/>
+      <point x="935" y="73"/>
+      <point x="935" y="136" type="curve" smooth="yes"/>
+      <point x="935" y="149"/>
+      <point x="932" y="163"/>
+      <point x="924" y="163" type="curve" smooth="yes"/>
+      <point x="914" y="163"/>
+      <point x="908" y="138"/>
+      <point x="885" y="138" type="curve" smooth="yes"/>
+      <point x="872" y="138"/>
+      <point x="868" y="149"/>
+      <point x="872" y="169" type="curve" smooth="yes"/>
+      <point x="926" y="352" type="line" smooth="yes"/>
+      <point x="978" y="528"/>
+      <point x="869" y="624"/>
+      <point x="726" y="624" type="curve" smooth="yes"/>
+      <point x="621" y="624"/>
+      <point x="547" y="571"/>
+      <point x="495" y="463" type="curve" smooth="yes"/>
+      <point x="440" y="349" type="line" smooth="yes"/>
+      <point x="414" y="295"/>
+      <point x="393" y="272"/>
+      <point x="363" y="272" type="curve" smooth="yes"/>
+      <point x="331" y="272"/>
+      <point x="310" y="295"/>
+      <point x="310" y="341" type="curve" smooth="yes"/>
+      <point x="310" y="432"/>
+      <point x="357" y="513"/>
+      <point x="449" y="518" type="curve" smooth="yes"/>
+      <point x="470" y="519"/>
+      <point x="478" y="525"/>
+      <point x="478" y="541" type="curve" smooth="yes"/>
+      <point x="478" y="570"/>
+      <point x="423" y="633"/>
+      <point x="315" y="633" type="curve" smooth="yes"/>
+      <point x="156" y="633"/>
+      <point x="52" y="517"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-10-20 11:29:23 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>gjVA</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>64.466</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>971</integer>
+          <key>y</key>
+          <integer>816</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <real>64.466</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>1107</integer>
+          <key>y</key>
+          <integer>816</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+            <dict>
+              <key>name</key>
+              <string>abvm</string>
+              <key>x</key>
+              <integer>764</integer>
+              <key>y</key>
+              <integer>615</integer>
+            </dict>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>gjLLA</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>956</integer>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

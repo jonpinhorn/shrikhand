@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Agrave" format="1">
+  <advance width="698"/>
+  <unicode hex="00C0"/>
+  <outline>
+    <component base="A"/>
+    <component base="grave" xOffset="265" yOffset="151"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-10-04 15:13:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gjPH_TTA" format="1">
+  <advance width="1070"/>
+  <outline>
+    <contour>
+      <point x="735" y="0" type="move" name="blwm"/>
+    </contour>
+    <contour>
+      <point x="913" y="615" type="move" name="abvm"/>
+    </contour>
+    <contour>
+      <point x="1053" y="239" type="curve" smooth="yes"/>
+      <point x="1053" y="276"/>
+      <point x="1043" y="295"/>
+      <point x="1029" y="295" type="curve" smooth="yes"/>
+      <point x="1001" y="295"/>
+      <point x="965" y="208"/>
+      <point x="863" y="208" type="curve" smooth="yes"/>
+      <point x="811" y="208"/>
+      <point x="785" y="222"/>
+      <point x="785" y="258" type="curve" smooth="yes"/>
+      <point x="785" y="344"/>
+      <point x="1079" y="333"/>
+      <point x="1079" y="506" type="curve" smooth="yes"/>
+      <point x="1079" y="578"/>
+      <point x="1013" y="633"/>
+      <point x="913" y="633" type="curve" smooth="yes"/>
+      <point x="790" y="633"/>
+      <point x="714" y="552"/>
+      <point x="714" y="446" type="curve" smooth="yes"/>
+      <point x="714" y="427"/>
+      <point x="721" y="420"/>
+      <point x="728" y="420" type="curve" smooth="yes"/>
+      <point x="746" y="420"/>
+      <point x="775" y="456"/>
+      <point x="809" y="456" type="curve" smooth="yes"/>
+      <point x="834" y="456"/>
+      <point x="846" y="443"/>
+      <point x="846" y="423" type="curve" smooth="yes"/>
+      <point x="846" y="395"/>
+      <point x="810" y="370"/>
+      <point x="748" y="368" type="curve" smooth="yes"/>
+      <point x="288" y="353" type="line"/>
+      <point x="136" y="353" type="line" smooth="yes"/>
+      <point x="102" y="353"/>
+      <point x="92" y="335"/>
+      <point x="92" y="320" type="curve" smooth="yes"/>
+      <point x="92" y="289"/>
+      <point x="154" y="253"/>
+      <point x="198" y="253" type="curve" smooth="yes"/>
+      <point x="216" y="253"/>
+      <point x="246" y="263"/>
+      <point x="340" y="291" type="curve"/>
+      <point x="613" y="291" type="line"/>
+      <point x="573" y="261"/>
+      <point x="544" y="219"/>
+      <point x="544" y="158" type="curve" smooth="yes"/>
+      <point x="544" y="59"/>
+      <point x="639" y="-3"/>
+      <point x="779" y="-3" type="curve" smooth="yes"/>
+      <point x="956" y="-3"/>
+      <point x="1053" y="109"/>
+    </contour>
+    <contour>
+      <point x="150" y="476" type="curve" smooth="yes"/>
+      <point x="150" y="417"/>
+      <point x="196" y="363"/>
+      <point x="252" y="337" type="curve"/>
+      <point x="334" y="352" type="line"/>
+      <point x="320" y="363"/>
+      <point x="309" y="376"/>
+      <point x="310" y="397" type="curve" smooth="yes"/>
+      <point x="313" y="432"/>
+      <point x="335" y="456"/>
+      <point x="380" y="456" type="curve" smooth="yes"/>
+      <point x="435" y="456"/>
+      <point x="467" y="428"/>
+      <point x="489" y="428" type="curve" smooth="yes"/>
+      <point x="499" y="428"/>
+      <point x="510" y="443"/>
+      <point x="510" y="473" type="curve" smooth="yes"/>
+      <point x="510" y="553"/>
+      <point x="453" y="633"/>
+      <point x="328" y="633" type="curve" smooth="yes"/>
+      <point x="212" y="633"/>
+      <point x="150" y="556"/>
+    </contour>
+    <contour>
+      <point x="256" y="303" type="line"/>
+      <point x="288" y="283"/>
+      <point x="304" y="265"/>
+      <point x="304" y="238" type="curve" smooth="yes"/>
+      <point x="304" y="180"/>
+      <point x="224" y="166"/>
+      <point x="161" y="172" type="curve"/>
+      <point x="143" y="226"/>
+      <point x="115" y="251"/>
+      <point x="77" y="251" type="curve" smooth="yes"/>
+      <point x="49" y="251"/>
+      <point x="27" y="235"/>
+      <point x="18" y="205" type="curve" smooth="yes"/>
+      <point x="-12" y="106"/>
+      <point x="91" y="-4"/>
+      <point x="286" y="-4" type="curve" smooth="yes"/>
+      <point x="421" y="-4"/>
+      <point x="509" y="59"/>
+      <point x="509" y="150" type="curve" smooth="yes"/>
+      <point x="509" y="227"/>
+      <point x="439" y="285"/>
+      <point x="336" y="320" type="curve"/>
+    </contour>
+    <contour>
+      <point x="297" y="-240" type="curve" smooth="yes"/>
+      <point x="380" y="-240"/>
+      <point x="431" y="-184"/>
+      <point x="431" y="-104" type="curve" smooth="yes"/>
+      <point x="431" y="-59"/>
+      <point x="410" y="-27"/>
+      <point x="393" y="-27" type="curve" smooth="yes"/>
+      <point x="379" y="-27"/>
+      <point x="358" y="-56"/>
+      <point x="293" y="-56" type="curve" smooth="yes"/>
+      <point x="241" y="-56"/>
+      <point x="183" y="-26"/>
+      <point x="183" y="51" type="curve"/>
+      <point x="132" y="63" type="line"/>
+      <point x="82" y="-116"/>
+      <point x="168" y="-240"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-10-19 16:58:48 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>gjPHA</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>gjTTA</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>gjPH</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+            <dict>
+              <key>baseGlyph</key>
+              <string>gjTTA</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>524</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>gjPH_TTA</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1070</integer>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

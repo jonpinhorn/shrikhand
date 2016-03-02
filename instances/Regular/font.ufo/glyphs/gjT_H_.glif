@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gjTH" format="1">
+  <advance width="465"/>
+  <outline>
+    <contour>
+      <point x="93" y="499" type="curve" smooth="yes"/>
+      <point x="93" y="430"/>
+      <point x="165" y="386"/>
+      <point x="263" y="386" type="curve"/>
+      <point x="289" y="430" type="line"/>
+      <point x="247" y="430"/>
+      <point x="225" y="451"/>
+      <point x="225" y="474" type="curve" smooth="yes"/>
+      <point x="225" y="495"/>
+      <point x="242" y="508"/>
+      <point x="257" y="508" type="curve" smooth="yes"/>
+      <point x="271" y="508"/>
+      <point x="288" y="499"/>
+      <point x="288" y="475" type="curve" smooth="yes"/>
+      <point x="288" y="444"/>
+      <point x="265" y="416"/>
+      <point x="160" y="381" type="curve" smooth="yes"/>
+      <point x="49" y="347"/>
+      <point x="29" y="330"/>
+      <point x="29" y="299" type="curve" smooth="yes"/>
+      <point x="29" y="210"/>
+      <point x="147" y="125"/>
+      <point x="330" y="125" type="curve" smooth="yes"/>
+      <point x="498" y="125"/>
+      <point x="603" y="217"/>
+      <point x="634" y="313" type="curve" smooth="yes"/>
+      <point x="650" y="355"/>
+      <point x="642" y="377"/>
+      <point x="629" y="377" type="curve" smooth="yes"/>
+      <point x="622" y="377"/>
+      <point x="618" y="372"/>
+      <point x="610" y="361" type="curve" smooth="yes"/>
+      <point x="545" y="274"/>
+      <point x="470" y="246"/>
+      <point x="390" y="246" type="curve" smooth="yes"/>
+      <point x="345" y="246"/>
+      <point x="320" y="255"/>
+      <point x="348" y="267" type="curve" smooth="yes"/>
+      <point x="402" y="295" type="line" smooth="yes"/>
+      <point x="481" y="335"/>
+      <point x="524" y="386"/>
+      <point x="524" y="461" type="curve" smooth="yes"/>
+      <point x="524" y="550"/>
+      <point x="437" y="633"/>
+      <point x="285" y="633" type="curve" smooth="yes"/>
+      <point x="162" y="633"/>
+      <point x="93" y="567"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-10-19 16:49:19 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>gjTHA</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>gjTHA</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>gjTH</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>465</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

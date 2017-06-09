@@ -1,8 +1,5 @@
 {
 .appVersion = "983";
-DisplayStrings = (
-"fafbfcfdfefffgfhfifjfkflfmf\012fnfofpfqfrfsftfufvfwfxfyfzf\012nn/Placeholder nn/Placeholder oo/Placeholder oo/Placeholder dd/Placeholder dd/Placeholder cc/Placeholder cc"
-);
 classes = (
 {
 code = "gjDHA\012gjD_YA";
@@ -123481,7 +123478,7 @@ unicode = 0060;
 },
 {
 glyphname = a;
-lastChange = "2017-06-09 17:43:11 +0000";
+lastChange = "2017-06-09 17:59:08 +0000";
 layers = (
 {
 anchors = (
@@ -148487,6 +148484,7 @@ j = 30;
 x = 15;
 "@MMK_R_y" = 25;
 "@MMK_R_o" = -10;
+"@MMK_R_a" = -30;
 };
 "@MMK_L_g" = {
 "@MMK_R_g" = 50;

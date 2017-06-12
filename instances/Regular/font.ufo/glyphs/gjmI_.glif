@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="gjmI" format="1">
-  <advance width="380"/>
-  <unicode hex="0ABF"/>
-  <outline>
-    <component base="gjmI.01"/>
-  </outline>
-</glyph>

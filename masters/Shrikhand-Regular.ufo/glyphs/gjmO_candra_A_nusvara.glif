@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gjmOcandra_Anusvara" format="1">
+  <advance width="380"/>
+  <outline>
+    <component base="gjmAA"/>
+    <component base="gjCandrabindu" xOffset="379"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-10-02 09:50:23 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>gjmAA</string>
+    </dict>
+  </lib>
+</glyph>
